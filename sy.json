@@ -1,0 +1,932 @@
+{
+	"Books": [
+		{
+			"title": "[ Tortora ] Principles of Anatomy and Physiology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZEw0Y1A3YVFFQmM",
+			"desc": "14th Edition",
+			"extra": "88 MB"
+		},
+		{
+			"title": "[ Ross & Wilson ] Anatomy and Physiology in Health and Illness",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUFVCTmsxaW5vVlE",
+			"desc": "12th Edition",
+			"extra": "43 MB"
+		},
+		{
+			"title": "[ Harsh Mohan ][ 7th Edition ] Textbook of Pathology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRk5qU2EtdVFkVHc",
+			"desc": "11th Edition",
+			"extra": "124 MB"
+		},
+		{
+			"title": "[ Guyton & Hall ] Textbook of Medical Physiology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRk5qU2EtdVFkVHc",
+			"desc": "12th Edition",
+			"extra": "24 MB"
+		},
+		{
+			"title": "[ K D Tripathi ][ 7th Edition ] Essentials of Medical Pharmacology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNkJZOHpwNGFQb0U",
+			"desc": "7th Edition",
+			"extra": "48 MB"
+		},
+		{
+			"title": "[ Gobind Rai Garg ]  Review of Pharmacology (2008)",
+			"url": "https://drive.google.com/file/d/1TmDwafNOJxDM1r9BYWagvtv47n5XO1Yi/",
+			"desc": "12th Edition",
+			"extra": "127 MB"
+		},
+		{
+			"title": "Pharmacology - Goodman & Gilman - Manual of Pharmacology and Therapeutics",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjX0h3SHdIMkkyN1U",
+			"desc": "12th Edition",
+			"extra": "58 MB"
+		},
+		{
+			"title": "[ Morrison & Boyd ] [6th Edition] Organic Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjc2VKVkd6Qi11MGM",
+			"desc": "6th Edition",
+			"extra": "88 MB"
+		},
+		{
+			"title": "Organic Chemistry - Finar - Organic Chemistry - Vol 2",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjanZ4WWlrT1B5WjQ",
+			"desc": "3rd Edition",
+			"extra": "23 MB"
+		},
+		{
+			"title": "Organic Chemistry - Solomon, Fryhle - Organic Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZGxyQVdxbkdsd2c",
+			"desc": "10th Edition",
+			"extra": "85 MB"
+		},
+		{
+			"title": "[ Peter Sykes ] A Guidebook to Mechanism in Organic Chemistry ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmNmQ3BqOC1IYW8",
+			"desc": "6th Edition",
+			"extra": "6 MB"
+		},
+		{
+			"title": "[ Lange ] Lange's Handbook of Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjdU81dW9ZaWJxQVU",
+			"desc": "15th Edition",
+			"extra": "6 MB"
+		},
+		{
+			"title": "Analytical Chemistry - Beckette, Stanlake - Practical Pharmaceutical Chemistry Part II",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjME1qTUc2amNGNG8",
+			"desc": "4th Edition",
+			"extra": "38 MB"
+		},
+		{
+			"title": "Analytical Chemistry - Skoog, Holler, Crouch - Principles of Instrumental Analysis",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeXpXQTFaWk1yS1E",
+			"desc": "6th Edition",
+			"extra": "52 MB"
+		},
+		{
+			"title": "Analytical Chemistry - Watson - Pharmaceutical Analysis",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkg2bVh6UzFnTjQ",
+			"desc": "2000 Reprint Edition",
+			"extra": "17 MB"
+		},
+		{
+			"title": "Textbook of Pharmaceutical Analysis by Kenneth A. Connors",
+			"url": "https://drive.google.com/file/d/17BXdF6XuZSMDXUulAiRAYOpmCY5hKo_6",
+			"desc": "3rd Edition",
+			"extra": "16 MB"
+		},
+		{
+			"title": "[ E. D. Aulton ] Pharmaceutics : the Science of Dosageform",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTEQ4cndkZ1J6Qnc",
+			"desc": "2nd Edition",
+			"extra": "69 MB"
+		},
+		{
+			"title": "Lachman and Lieberman",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTkFRZmpYR1FlSjQ",
+			"desc": "3rd Edition",
+			"extra": "78 MB"
+		},
+		{
+			"title": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 1",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjU0FHWUhWOEhfdVU",
+			"desc": "20th Edition",
+			"extra": "136 MB"
+		},
+		{
+			"title": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 2",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeEhzUzdtcTMzdU0",
+			"desc": "20th Edition",
+			"extra": "139 MB"
+		},
+		{
+			"title": "Remington Essentials of Pharmaceutics-Felton-Linda",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNjUweDI4dmFhM2M/",
+			"desc": "2013 Edition",
+			"extra": "11 MB"
+		},
+		{
+			"title": "Microbiology - Hugo, Russell - Pharmaceutical Microbiology.pdf",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHja1J6NnlkV3Jrem8",
+			"desc": "7th Edition",
+			"extra": "4 MB"
+		},
+		{
+			"title": "Biochemistry Satyanarayana Chakrapani",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjdnBoaWpFNHk2SW8",
+			"desc": "3rd Edition",
+			"extra": "98 MB"
+		},
+		{
+			"title": "Lehninger Principles of Biochemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjYnZIZkVld0RENWc",
+			"desc": "6th Edition",
+			"extra": "80 MB"
+		},
+		{
+			"title": "Lippincott",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZ2ptbFVkV3owamM",
+			"desc": "5th Edition",
+			"extra": "54 MB"
+		},
+		{
+			"title": "[ CVS ] Pharmaceutical Engineering Unit Operations by C.V.S. Subrahmanyam ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjaENxcFVLYUlyaFk",
+			"desc": "Combined Edition",
+			"extra": "95 MB"
+		},
+		{
+			"title": "[ Bahl & Tuli ] Essentials of Physical Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcmJCNk5ic1Z4UEU",
+			"desc": "Multi-colour Edition",
+			"extra": "28 MB"
+		},
+		{
+			"title": "Martin's Physical Pharmacy and Pharmaceutical Sciences",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjLS0wcXAxTEZmeVE",
+			"desc": "6th Edition",
+			"extra": "48 MB"
+		}
+	],
+	"QPprs": [
+		{
+			"title": "OC-1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1z8TomImdNjqRXTVXYGNmWfYmKSJAOf92",
+			"extra": "Folder"
+		},
+		{
+			"title": "OC-1",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/12zHyMEchZjGOqkfB4IETP_pEtKKloVx7",
+			"extra": "Folder"
+		},
+		{
+			"title": "OC-1",
+			"desc": "March 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWJ5U2xmYTc3dDg/",
+			"extra": "996 KB"
+		},
+		{
+			"title": "OC-1",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbkQ4dWtrTlYzUEk/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-1",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjamxrYjI2NGtZUms/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-1",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjV3dfNW9NX0tFVnc/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-1",
+			"desc": "March 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbFRMaEJNbnAyM0k/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-1",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSTY2Zm13Ujh3MTg/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-2 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/11RVB_1cXlZjrjCTnkntViMitI8S9lK32",
+			"extra": "Folder"
+		},
+		{
+			"title": "OC-2",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1waFrpDfxQUfaknouZN22dnHCDWfOYcgw",
+			"extra": "Folder"
+		},
+		{
+			"title": "OC-2",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVV9ubHRnZUJ3eUk",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-2",
+			"desc": "Nov 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVnFneVBsSEdhV0k",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-2",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZkNLLTZ3OVB2Smc",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-2",
+			"desc": "Oct 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZ3hSUlg3c2JvSk0",
+			"extra": "1 MB"
+		},
+		{
+			"title": "OC-2",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZ2t0YkxFeG1SejA",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Pharm. Analysis-1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1knPKdr1LT3DSSlKM6Pyu6KoXJGbFu37W",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharm. Analysis-1",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1fAq6VjH8qTLHN_gUgNVocqOzbkzpGr4U",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharm. Analysis",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbVQxSWpIZmEySnM",
+			"extra": "814 KB"
+		},
+		{
+			"title": "Pharm. Analysis",
+			"desc": "Nov 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeW02VHhyaXpDX2c",
+			"extra": "803 KB"
+		},
+		{
+			"title": "Pharm. Analysis",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjemhKY0gwX2doQ1k",
+			"extra": "790 KB"
+		},
+		{
+			"title": "Pharm. Analysis",
+			"desc": "Oct 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjd1pyemdtOUM4SDQ",
+			"extra": "743 KB"
+		},
+		{
+			"title": "Pharm. Analysis",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjYWoxOFgyYUIxMkk",
+			"extra": "768 KB"
+		},
+		{
+			"title": "PP-1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/13D7Uzd9faRMjB-ejTfwWAzE9xHRG63b0",
+			"extra": "Folder"
+		},
+		{
+			"title": "PP-2 (CBCS)",
+			"desc": "Apr 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/13yNxD6w9933DnLGjNUjKMu1sNve9h5A-",
+			"extra": "Folder"
+		},
+		{
+			"title": "DP",
+			"desc": "Apr 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/19ZnguQC-Z48nssNu0ftuI7dKKBvTJH93",
+			"extra": "Folder"
+		},
+		{
+			"title": "DP",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZDl1dnNTZTBtM0E/",
+			"extra": "723 KB"
+		},
+		{
+			"title": "DP",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbkNCbmRDWi1uTXM/",
+			"extra": "917 KB"
+		},
+		{
+			"title": "DP",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTzJoZnN0U2czYjg/",
+			"extra": "1017 KB"
+		},
+		{
+			"title": "DP",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTndJNWE3MmpJZVE/",
+			"extra": "738 KB"
+		},
+		{
+			"title": "DP",
+			"desc": "March 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVmE4N29rQ0pDWU0/",
+			"extra": "968 KB"
+		},
+		{
+			"title": "DP",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQ2RDRjgzOF9MaUk/",
+			"extra": "829 KB"
+		},
+		{
+			"title": "Pharmaceutics - 1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1e3qUhjOOfaLYyEtunogJCIMCM12ZvxJR",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics - 2",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1Yz26sA37Nj5Xw81MZS9msTPsGCX9fnLz",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics - 2",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWVVIT3BMcDFhVDQ",
+			"extra": "622 KB"
+		},
+		{
+			"title": "Pharmaceutics - 2",
+			"desc": "Nov 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTUxLVGFkaTBBRXM",
+			"extra": "535 KB"
+		},
+		{
+			"title": "Pharmaceutics - 2",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQkhDellaa0p0WUE",
+			"extra": "607 KB"
+		},
+		{
+			"title": "Pharmaceutics - 2",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWDVYMnl2TGN4akU",
+			"extra": "486 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Apr 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1SVqAv1eO9RSygWZsqBuRZOuxR1UBM1Zg",
+			"extra": "Folder"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjOEh6WGFNT0NtRnM/",
+			"extra": "730 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjMDJsNk9jVEFsaDA/",
+			"extra": "555 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjOWFPc0lua19UUDg/",
+			"extra": "624 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjV1NONzlpb3Byd3M/",
+			"extra": "455 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "March 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjX3JsdFl0WW1aYlE/",
+			"extra": "715 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
+			"extra": "443 KB"
+		},
+		{
+			"title": "MicroBiology (CBCS)",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1kFeOcfVf9FXQg9mXi8i0FtqYPoMBgKer",
+			"extra": "Folder"
+		},
+		{
+			"title": "MicroBiology ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1atwtCtaZjcoaEPtcet48lRAw0-972_H3",
+			"extra": "Folder"
+		},
+		{
+			"title": "MicroBiology",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWJ5bUd6bUhVWEU",
+			"extra": "662 KB"
+		},
+		{
+			"title": "MicroBiology",
+			"desc": "Nov 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZ0xqdC1Ram9GNHc",
+			"extra": "627 KB"
+		},
+		{
+			"title": "MicroBiology",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbFFPS0tsUm4wT00",
+			"extra": "662 KB"
+		},
+		{
+			"title": "MicroBiology",
+			"desc": "Oct 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
+			"extra": "692 KB"
+		},
+		{
+			"title": "MicroBiology",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSHhqbUQ2ZmVFek0",
+			"extra": "644 KB"
+		},
+		{
+			"title": "APP-3 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1fSNU9C_3JDil-h13TDt3lbrDX1dTGYz3",
+			"extra": "Folder"
+		},
+		{
+			"title": "APP-3 ",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1puUpe0l320duVH88-uZ2SIeCSwFBTZz0",
+			"extra": "Folder"
+		},
+		{
+			"title": "APP-3",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVkwzRWVka1ZhYUk/",
+			"extra": "909 KB"
+		},
+		{
+			"title": "APP-3",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZXhrTGdGbEppZEU/",
+			"extra": "911 KB"
+		},
+		{
+			"title": "APP-3",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZWhsLTBGeVg2bms/",
+			"extra": "844 KB"
+		},
+		{
+			"title": "APP-3",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWHkxNlhrRVVhMG8/",
+			"extra": "790 KB"
+		},
+		{
+			"title": "APP-3",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjM2oyRFcyZ1ljZUk/",
+			"extra": "759 KB"
+		},
+		{
+			"title": "Pharmacology-1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1yyenKkZ6rTxkuIxtyPfUKlzlipbpfIvF",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmacology-1",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1vhr3jxVNeVErSgaKkbe6j7TntOrANkOn",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmacology",
+			"desc": "May 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkpMa0g0bjhvRTA",
+			"extra": "898 KB"
+		},
+		{
+			"title": "Pharmacology",
+			"desc": "Nov 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkpMa0g0bjhvRTA",
+			"extra": "893 KB"
+		},
+		{
+			"title": "Pharmacology",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSmk1SHlyM3BlS1U",
+			"extra": "725 KB"
+		},
+		{
+			"title": "Pharmacology",
+			"desc": "Oct 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjdFFfWU4tTnNVRUU",
+			"extra": "821 KB"
+		},
+		{
+			"title": "Pharmacology",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbl9waS1fYzNlSGM",
+			"extra": "868 KB"
+		},
+		{
+			"title": "Maths (CBCS)",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1JOV22nOaSbrsiyocx4T6lhhN-jiNj3B3",
+			"extra": "Folder"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1Z94WYjIaMS278Ca40RvcWZjBsEg6hZh7",
+			"extra": "Folder"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWFc3dEY1N0lPOEk/",
+			"extra": "997 KB"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeFJfREZKR3NRMDg/",
+			"extra": "912 KB"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeW5NRS1kUFlsWG8/",
+			"extra": "907 KB"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRkZ0Q1k1cUVqMFU/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjT0JsMmZ0UlN1SkE/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Maths-1",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSlVBSEJTZzg3RmM/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Maths-2",
+			"desc": "May 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjelBHbkN2MXJlbUU",
+			"extra": "2 MB"
+		},
+		{
+			"title": "Maths-2",
+			"desc": "Oct 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjU2doOWkwWm0wYnc",
+			"extra": "2 MB"
+		},
+		{
+			"title": "Maths-2",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSWx1Z1ZROV9JRlE",
+			"extra": "2 MB"
+		},
+		{
+			"title": "Pharm. Engg. (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1cWAArTQ9cTnyKJ9VoC7Ld8-i5_WPvmyG",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1MkmwywIEovfYfZEV-04AS-QDCaP-bCon",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjLUV1aEtZYlg3TVk/",
+			"extra": "639 KB"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+			"extra": "730 KB"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcnBaMkxCNmVDU1k/",
+			"extra": "726 KB"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjMlRsTldCNlhqVDQ/",
+			"extra": "634 KB"
+		},
+		{
+			"title": "Pharm. Engg.",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHja2s4SjlucWFRcDQ/",
+			"extra": "463 KB"
+		}
+	],
+	"Videos": [
+		{
+			"title": "Acids ",
+			"url": "https://youtu.be/XZNtsGJ8K34",
+			"desc": "Video length: 2:41",
+			"extra": "https://i.ytimg.com/vi/XZNtsGJ8K34/maxresdefault.jpg"
+		},
+		{
+			"title": "Acid and Base : Buffers and Waters ",
+			"url": "https://youtu.be/k-PbcEg3xIw",
+			"desc": "Video length: 8:10",
+			"extra": "https://i.ytimg.com/vi/k-PbcEg3xIw/hqdefault.jpg"
+		},
+		{
+			"title": "Set 1 - Chemistry MCQs | GPAT MCQ |  NIPER MCQ | Pharmacy",
+			"url": "https://youtu.be/gPTpSDCUGZc",
+			"desc": "Video length: 3:59",
+			"extra": "https://i.ytimg.com/vi/gPTpSDCUGZc/maxresdefault.jpg"
+		},
+		{
+			"title": "Complexometric Titrations ",
+			"url": "https://youtu.be/J_3iji3MIGw",
+			"desc": "Video length: 6:17",
+			"extra": "https://i.ytimg.com/vi/J_3iji3MIGw/maxresdefault.jpg"
+		},
+		{
+			"title": "Non - Aqueous Titrations ",
+			"url": "https://youtu.be/KCVc7AlVls8",
+			"desc": "Video length: 3:06",
+			"extra": "https://i.ytimg.com/vi/KCVc7AlVls8/maxresdefault.jpg"
+		},
+		{
+			"title": "Redox Titration ",
+			"url": "https://youtu.be/nVoSvpf4hXY",
+			"desc": "Video length: 6:03",
+			"extra": "https://i.ytimg.com/vi/nVoSvpf4hXY/maxresdefault.jpg"
+		},
+		{
+			"title": "Precipitation Titration ",
+			"url": "https://youtu.be/0dudK49febQ",
+			"desc": "Video length: 4:18",
+			"extra": "https://i.ytimg.com/vi/0dudK49febQ/maxresdefault.jpg"
+		},
+		{
+			"title": "Polarography ",
+			"url": "https://youtu.be/CO7l4cGJ_MY",
+			"desc": "Video length: 5:26",
+			"extra": "https://i.ytimg.com/vi/CO7l4cGJ_MY/maxresdefault.jpg"
+		},
+		{
+			"title": "Amperometry ",
+			"url": "https://youtu.be/xw3QfrPnKIg",
+			"desc": "Video length: 6:02",
+			"extra": "https://i.ytimg.com/vi/xw3QfrPnKIg/maxresdefault.jpg"
+		},
+		{
+			"title": "Coulometry ",
+			"url": "https://youtu.be/Rr0gA6wlGes",
+			"desc": "Video length: 7:04",
+			"extra": "https://i.ytimg.com/vi/Rr0gA6wlGes/maxresdefault.jpg"
+		},
+		{
+			"title": "Electrogravimetry ",
+			"url": "https://youtu.be/TDmAgfGaw6c",
+			"desc": "Video length: 4:12",
+			"extra": "https://i.ytimg.com/vi/TDmAgfGaw6c/maxresdefault.jpg"
+		},
+		{
+			"title": "Liquid - Liquid Extraction ",
+			"url": "https://youtu.be/WUucjNF2cpo",
+			"desc": "Video length: 7:48",
+			"extra": "https://i.ytimg.com/vi/WUucjNF2cpo/maxresdefault.jpg"
+		},
+		{
+			"title": "Basic Concepts Of Organic Chemistry - Part I ",
+			"url": "https://youtu.be/yjKalpe1WUo",
+			"desc": "Video length: 8:40",
+			"extra": "https://i.ytimg.com/vi/yjKalpe1WUo/maxresdefault.jpg"
+		},
+		{
+			"title": "Basic Concepts Of Organic Chemistry - Part II ",
+			"url": "https://youtu.be/IKL7G_6ZrZE",
+			"desc": "Video length: 6:25",
+			"extra": "https://i.ytimg.com/vi/IKL7G_6ZrZE/maxresdefault.jpg"
+		},
+		{
+			"title": "Functional Group - Amines ",
+			"url": "https://youtu.be/zXw3raXps9E",
+			"desc": "Video length: 6:33",
+			"extra": "https://i.ytimg.com/vi/zXw3raXps9E/maxresdefault.jpg"
+		},
+		{
+			"title": "Functional Group - Aldehydes and Ketones ",
+			"url": "https://youtu.be/YjSwzKJfD5o",
+			"desc": "Video length: 14:55",
+			"extra": "https://i.ytimg.com/vi/YjSwzKJfD5o/hqdefault.jpg"
+		},
+		{
+			"title": "Polyclic Aromatic Compounds ",
+			"url": "https://youtu.be/NfsksDf7zG0",
+			"desc": "Video length: 2:55",
+			"extra": "https://i.ytimg.com/vi/NfsksDf7zG0/maxresdefault.jpg"
+		},
+		{
+			"title": "Stereochemistry ",
+			"url": "https://youtu.be/XKqETtPNKbI",
+			"desc": "Video length: 9:25",
+			"extra": "https://i.ytimg.com/vi/XKqETtPNKbI/sddefault.jpg"
+		},
+		{
+			"title": "Routes of administration ",
+			"url": "https://youtu.be/Iy_CpCIe4Ko",
+			"desc": "Video length: 3:50",
+			"extra": "https://i.ytimg.com/vi/Iy_CpCIe4Ko/maxresdefault.jpg"
+		},
+		{
+			"title": "PharmacoDynamics ",
+			"url": "https://youtu.be/x8QjeafCKGU",
+			"desc": "Video length: 8:05",
+			"extra": "https://i.ytimg.com/vi/x8QjeafCKGU/maxresdefault.jpg"
+		},
+		{
+			"title": "Enzyme Induction || Factors affecting Drug MOA ",
+			"url": "https://youtu.be/7qiBMpU_Xik",
+			"desc": "Video length: 4:33",
+			"extra": "https://i.ytimg.com/vi/7qiBMpU_Xik/maxresdefault.jpg"
+		},
+		{
+			"title": "Drugs Acting on ANS ",
+			"url": "https://youtu.be/_jQGimFFs4A",
+			"desc": "Video length: 16:16",
+			"extra": "https://i.ytimg.com/vi/_jQGimFFs4A/sddefault.jpg"
+		},
+		{
+			"title": "Basic Pharmacology MCQ | GPAT MCQ |  NIPER MCQ | Pharmacy",
+			"url": "https://youtu.be/3_e2Ha6HWrU",
+			"desc": "Video length: 3:07",
+			"extra": "https://i.ytimg.com/vi/3_e2Ha6HWrU/maxresdefault.jpg"
+		},
+		{
+			"title": "Drugs acting on Central Nervous System CNS MCQ | CNS Drugs MCQ | Pharmacology MCQ | GPAT NIPER MCQ",
+			"url": "https://youtu.be/QHZu7ExPNc8",
+			"desc": "Video length: 9:23",
+			"extra": "https://i.ytimg.com/vi/QHZu7ExPNc8/maxresdefault.jpg"
+		},
+		{
+			"title": "Drugs Acting on Autonomic Nervous System MCQ | ANS Drugs MCQ | Pharmacology MCQ | GPAT NIPER MCQ",
+			"url": "https://youtu.be/1SO6uc51J0E",
+			"desc": "Video length: 8:16",
+			"extra": "https://i.ytimg.com/vi/1SO6uc51J0E/maxresdefault.jpg"
+		},
+		{
+			"title": "Autocoid MCQs | Pharmacology MCQ | GPAT MCQ | NIPER MCQ",
+			"url": "https://youtu.be/cYpTEnGT97Q",
+			"desc": "Video length: 7:21",
+			"extra": "https://i.ytimg.com/vi/cYpTEnGT97Q/maxresdefault.jpg"
+		},
+		{
+			"title": "Drug Response Curve (DRC) of Acetylcholine ",
+			"url": "https://youtu.be/UMeOR9PO5cw",
+			"desc": "Video length: 8:34",
+			"extra": "https://i.ytimg.com/vi/UMeOR9PO5cw/hqdefault.jpg"
+		},
+		{
+			"title": "Diuretics ",
+			"url": "https://youtu.be/xZp2xQDoEPc",
+			"desc": "Video length: 9:58",
+			"extra": "https://i.ytimg.com/vi/xZp2xQDoEPc/maxresdefault.jpg"
+		},
+		{
+			"title": "Sterilisation ",
+			"url": "https://youtu.be/NQapGpO71q0",
+			"desc": "Video length: 8:33",
+			"extra": "https://i.ytimg.com/vi/NQapGpO71q0/maxresdefault.jpg"
+		},
+		{
+			"title": "Culture Media ",
+			"url": "https://youtu.be/_HDPGs4HLgQ",
+			"desc": "Video length: 8:01",
+			"extra": "https://i.ytimg.com/vi/_HDPGs4HLgQ/maxresdefault.jpg"
+		},
+		{
+			"title": "Staining ",
+			"url": "https://youtu.be/FneHZTypyTE",
+			"desc": "Video length: 9:19",
+			"extra": "https://i.ytimg.com/vi/FneHZTypyTE/maxresdefault.jpg"
+		},
+		{
+			"title": "Growth and Reproduction in Bacteria ",
+			"url": "https://youtu.be/6cRKV0lyHTo",
+			"desc": "Video length: 10:48",
+			"extra": "https://i.ytimg.com/vi/6cRKV0lyHTo/maxresdefault.jpg"
+		},
+		{
+			"title": "Eukaryotic MicroOrganism - Fungi ",
+			"url": "https://youtu.be/oXcJhNVTbsI",
+			"desc": "Video length: 6:57",
+			"extra": "https://i.ytimg.com/vi/oXcJhNVTbsI/hqdefault.jpg"
+		},
+		{
+			"title": "Viruses ",
+			"url": "https://youtu.be/RPWMHJm2xwI",
+			"desc": "Video length: 11:57",
+			"extra": "https://i.ytimg.com/vi/RPWMHJm2xwI/maxresdefault.jpg"
+		},
+		{
+			"title": "Session 1 - Replication in Prokaryotes and Eukaryotes",
+			"url": "https://youtu.be/6x6fkstKviQ",
+			"desc": "Video length: 1:59:43",
+			"extra": "https://i.ytimg.com/vi/6x6fkstKviQ/maxresdefault.jpg"
+		},
+		{
+			"title": "Session 2 - Transcription in Prokaryotes & Eukaryotes",
+			"url": "https://youtu.be/DaSKJeqTwJw",
+			"desc": "Video length: 1:25:10",
+			"extra": "https://i.ytimg.com/vi/DaSKJeqTwJw/maxresdefault.jpg"
+		},
+		{
+			"title": "Session 3 : Biotransformation of Drugs | Drug Metabolism | Phase 1 and Phase 2 Metabolism",
+			"url": "https://youtu.be/7RNQXE3r5UM",
+			"desc": "Video length: 1:46:50",
+			"extra": "https://i.ytimg.com/vi/7RNQXE3r5UM/maxresdefault.jpg"
+		},
+		{
+			"title": "Suspensions ",
+			"url": "https://youtu.be/p9aQYKpH9u0",
+			"desc": "Video length: 9:26",
+			"extra": "https://i.ytimg.com/vi/p9aQYKpH9u0/maxresdefault.jpg"
+		},
+		{
+			"title": "Emulsions ",
+			"url": "https://youtu.be/aNzZ8T9eomU",
+			"desc": "Video length: 8:55",
+			"extra": "https://i.ytimg.com/vi/aNzZ8T9eomU/maxresdefault.jpg"
+		},
+		{
+			"title": "Ointments ",
+			"url": "https://youtu.be/RWtjUAtT2gI",
+			"desc": "Video length: 5:37",
+			"extra": "https://i.ytimg.com/vi/RWtjUAtT2gI/maxresdefault.jpg"
+		},
+		{
+			"title": "Suppositories ",
+			"url": "https://youtu.be/x80vmKnB260",
+			"desc": "Video length: 9:17",
+			"extra": "https://i.ytimg.com/vi/x80vmKnB260/maxresdefault.jpg"
+		},
+		{
+			"title": "Blood Products ",
+			"url": "https://youtu.be/jJ7WPrT7s-I",
+			"desc": "Video length: 10:48",
+			"extra": "https://i.ytimg.com/vi/jJ7WPrT7s-I/maxresdefault.jpg"
+		},
+		{
+			"title": "Sutures and Ligatures ",
+			"url": "https://youtu.be/dFmCxTLPIp4",
+			"desc": "Video length: 5:23",
+			"extra": "https://i.ytimg.com/vi/dFmCxTLPIp4/maxresdefault.jpg"
+		}
+	]
+}

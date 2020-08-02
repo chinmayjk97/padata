@@ -1,0 +1,752 @@
+{
+	"Books": [
+		{
+			"title": "[ Tortora ] Principles of Anatomy and Physiology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZEw0Y1A3YVFFQmM",
+			"desc": "14th Edition",
+			"extra": "88 MB"
+		},
+		{
+			"title": "[ Ross & Wilson ] Anatomy and Physiology in Health and Illness",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUFVCTmsxaW5vVlE",
+			"desc": "12th Edition",
+			"extra": "43 MB"
+		},
+		{
+			"title": "[ Harsh Mohan ][ 7th Edition ] Textbook of Pathology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNFRpTW5FQXBnb1U",
+			"desc": "11th Edition",
+			"extra": "124 MB"
+		},
+		{
+			"title": "[ Guyton & Hall ] Textbook of Medical Physiology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRk5qU2EtdVFkVHc",
+			"desc": "12th Edition",
+			"extra": "24 MB"
+		},
+		{
+			"title": "[ Eric Anslyn, D.Dougherty ] Modern Physical Organic Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWVhpZ2lyeHFhN00",
+			"desc": "2006 Edition",
+			"extra": "541 MB"
+		},
+		{
+			"title": "[ Vogel ] Organic Chemistry - Furniss, Hannaford, Smith, Tatchell - Vogel Textbook of Practical Organic Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjR29DcnIzVTVnQ2s",
+			"desc": "5th Edition",
+			"extra": "14 MB"
+		},
+		{
+			"title": "[ Wade ] Organic Chemistry - Wade - Organic Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjR2ZrZkZiSkxJUmc",
+			"desc": "6th Edition",
+			"extra": "23 MB"
+		},
+		{
+			"title": "Wilson and Gisvolds - Textbook of Organic",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTlljOWd2UG5WTDA",
+			"desc": "12th Edition",
+			"extra": "30 MB"
+		},
+		{
+			"title": "[ E. D. Aulton ] Pharmaceutics : the Science of Dosageform",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTEQ4cndkZ1J6Qnc",
+			"desc": "2nd Edition",
+			"extra": "69 MB"
+		},
+		{
+			"title": "Lachman and Lieberman",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTkFRZmpYR1FlSjQ",
+			"desc": "3rd Edition",
+			"extra": "78 MB"
+		},
+		{
+			"title": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 1",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjU0FHWUhWOEhfdVU",
+			"desc": "20th Edition",
+			"extra": "136 MB"
+		},
+		{
+			"title": "Remington - The Science and Practice of Pharmacy (20th Edition) - Volume 2",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeEhzUzdtcTMzdU0",
+			"desc": "20th Edition",
+			"extra": "139 MB"
+		},
+		{
+			"title": "Biochemistry Satyanarayana Chakrapani",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjdnBoaWpFNHk2SW8",
+			"desc": "3rd Edition",
+			"extra": "98 MB"
+		},
+		{
+			"title": "Lehninger Principles of Biochemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjYnZIZkVld0RENWc",
+			"desc": "6th Edition",
+			"extra": "80 MB"
+		},
+		{
+			"title": "Lippincott",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZ2ptbFVkV3owamM",
+			"desc": "5th Edition",
+			"extra": "54 MB"
+		},
+		{
+			"title": "[ Kaushik & Kaushik ] Perspective in EVS",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUGg2TVduLU53Z00",
+			"desc": "2nd Edition",
+			"extra": "7 MB"
+		},
+		{
+			"title": "[ Bahl & Tuli ] Essentials of Physical Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcmJCNk5ic1Z4UEU",
+			"desc": "Multi-colour Edition",
+			"extra": "28 MB"
+		},
+		{
+			"title": "Martin's Physical Pharmacy and Pharmaceutical Sciences",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjLS0wcXAxTEZmeVE",
+			"desc": "6th Edition",
+			"extra": "48 MB"
+		},
+		{
+			"title": "Pharmacognosy by Dr. C. K. Kokate",
+			"url": "https://chinmayjk97.github.io/wp-content/kokate",
+			"desc": "Online Edition",
+			"extra": "Online-view only"
+		},
+		{
+			"title": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+			"desc": "16th Edition",
+			"extra": "16 MB "
+		},
+		{
+			"title": "[ Quick Review ] Phamacognosy at glance by Krishna B. Bhansali",
+			"url": "https://drive.google.com/file/d/1IS2XTw4N95BUUOKyzg2qGjPMLevIffBQ",
+			"desc": "1st Edition",
+			"extra": "3 MB"
+		},
+		{
+			"title": "Ashutosh Kar - Pharmacognosy and Pharmaco- biotechnology ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
+			"desc": "2nd Edition",
+			"extra": "7 MB"
+		},
+		{
+			"title": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+			"url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+			"desc": "1st Edition",
+			"extra": "14 MB"
+		}
+	],
+	"QPprs": [
+		{
+			"title": "General Chemistry",
+			"desc": "Dec 18 (CBCS) ",
+			"url": "https://drive.google.com/file/d/1oG0G_fZPjp0ZdN7L2AJwllh0hYtpSHZO/",
+			"extra": "436 KB"
+		},
+		{
+			"title": "General Chemistry",
+			"desc": "April 18 (CBCS) ",
+			"url": "https://drive.google.com/file/d/1_8rDrXutt5wbiSSdiWE8C5UJrK0TFZfY/",
+			"extra": "311 KB"
+		},
+		{
+			"title": "General Chemistry",
+			"desc": "Dec 17 & April 18 (CBCS) ",
+			"url": "https://drive.google.com/file/d/1uWQRLx-kvnHAN5eNHaHPPrQ5KZG2bTxO/",
+			"extra": "1.4 MB"
+		},
+		{
+			"title": "POC",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/1njDrTEFxJI5oRvPkuTZeDdJy6SBnZK4i/",
+			"extra": "366 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "April 18",
+			"url": "https://drive.google.com/file/d/15amoN0XzA8Htz94SgE_H8wLa16Huyvk6/",
+			"extra": "284 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "Dec 17",
+			"url": "https://drive.google.com/file/d/1v1_di-L6yCOQOME3UCQ645BPd33Km4Vw/",
+			"extra": "280 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbXFLV2RDN2IyZnM/",
+			"extra": "851 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcWVPZkE5d0gyNDA/",
+			"extra": "805 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "March 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjdVlnX1JrdG5fMzA/",
+			"extra": "655 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjb1pyQ2xKazU1VUU/",
+			"extra": "806 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "March 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWU43T1VzeGxEVUk/",
+			"extra": "666 KB"
+		},
+		{
+			"title": "POC",
+			"desc": "Dec 12",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSlFLN09VYXR1WFE/",
+			"extra": "582 KB"
+		},
+		{
+			"title": "Pharm Chem-1 (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1xXZmhkQKJvAzVnkTLzjXNHyVgdi1WcWZ",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharm Chem",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjXzVCWi1uM2s5T0U",
+			"extra": "389 KB"
+		},
+		{
+			"title": "Pharm Chem",
+			"desc": "Nov 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcnFBNDA4ZUtFN2s/",
+			"extra": "543 KB"
+		},
+		{
+			"title": "Pharm Chem",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbzhuOFhtcllobUU",
+			"extra": "661 KB"
+		},
+		{
+			"title": "Pharm Chem",
+			"desc": "Nov 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmIxbDR1VmlGcjg",
+			"extra": "451 KB"
+		},
+		{
+			"title": "Pharm Chem",
+			"desc": "May 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjenoxOUR4NThLZU0",
+			"extra": "389 KB"
+		},
+		{
+			"title": "Biochem-1  (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1o51hZA3vSltI0vda0T4oTFRQxwI1oNt5",
+			"extra": "Folder"
+		},
+		{
+			"title": "Biochem - 1",
+			"desc": "April & Nov - 17 & 18 (CBCS) ",
+			"url": "https://drive.google.com/file/d/16B_pA3ZGyscaT-ZqD62si2G9D5vUGaOe/",
+			"extra": "2.7 MB"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1-cgVwbHSu5Z4nLskIw56wMTMv6zaLPt3",
+			"extra": "Folder"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWllvcjRMRE1lTWM",
+			"extra": "647 KB"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "Nov 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNHYzbThwSFNsMGs",
+			"extra": "675 KB"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjYUNCMUNqaXNqM3M",
+			"extra": "625 KB"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "Nov 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUnhsLTdxRVRuWk0",
+			"extra": "503 KB"
+		},
+		{
+			"title": "Biochem-1",
+			"desc": "May 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbkl6cW9pWm1hUUk",
+			"extra": "490 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Apr 16",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjOEh6WGFNT0NtRnM/",
+			"extra": "730 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjMDJsNk9jVEFsaDA/",
+			"extra": "555 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjOWFPc0lua19UUDg/",
+			"extra": "624 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjV1NONzlpb3Byd3M/",
+			"extra": "455 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "March 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjX3JsdFl0WW1aYlE/",
+			"extra": "715 KB"
+		},
+		{
+			"title": "Biochem-2",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVGJQSzhNWXRSZ2c/",
+			"extra": "443 KB"
+		},
+		{
+			"title": "DPCP",
+			"desc": "Apr 18 -  CBCS",
+			"url": "https://drive.google.com/file/d/1JhzdrrGgV8hZCfAbB2FSju7EGMfHYeUD/",
+			"extra": "259 KB"
+		},
+		{
+			"title": "DPCP",
+			"desc": "Dec 17 -  CBCS",
+			"url": "https://drive.google.com/file/d/1PvHgWTvcPkMICu2MNRdRdH5yinFu5r40/",
+			"extra": "262 KB"
+		},
+		{
+			"title": "DPCP",
+			"desc": "Dec 17 -  CBCS",
+			"url": "https://drive.google.com/file/d/1-QSzwgQDC75JTCOay8TXtk1RG4n_h7w_/",
+			"extra": "316 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 18 -  CBCS",
+			"url": "https://drive.google.com/file/d/1otLDtiYX3UCQhqInI01_08xdSgwfnZPl/",
+			"extra": "121 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "April 18 -  CBCS",
+			"url": "https://drive.google.com/file/d/1wufZnQiW4vciYgMm4vfLVMeMSqt48AS3/",
+			"extra": "256 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 17 -  CBCS",
+			"url": "https://drive.google.com/file/d/1S9YcDdOa6xN_KG3d-HPVLTNNByVT0WAp/",
+			"extra": "256 KB"
+		},
+		{
+			"title": "APP - 1",
+			"desc": "Nov 16, April & Nov 17 (CBCS) ",
+			"url": "https://drive.google.com/file/d/1lbeHtZ7kKqvdxpzR_nHDQorw1QdL0_sh/",
+			"extra": "2.5 MB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/18k09RAByCIqSoXO6IZ7T0hyOtGRHse-T/",
+			"extra": "207 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "April 18",
+			"url": "https://drive.google.com/file/d/16LYd_twrSwzZoWDacrQNnKcMDfhP4KKz/",
+			"extra": "251 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 17",
+			"url": "https://drive.google.com/file/d/1ZAf8aC1Jz_FLtTXoyAr3aMOB_Ei0JRRU/",
+			"extra": "252 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbVBjcXFjRmVGMGc/",
+			"extra": "1 MB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjS0ZiUXdNVEV5VHM/",
+			"extra": "738 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNUVaYV9CSkdUeU0/",
+			"extra": "797 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbzFyUl9RU2w2Vnc/",
+			"extra": "731 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Apr 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUk9teUpSLUh2Qnc/",
+			"extra": "842 KB"
+		},
+		{
+			"title": "APP-1",
+			"desc": "Dec 12",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbFM2QVByMkJ2VTQ/",
+			"extra": "776 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "Dec 18 - CBCS ",
+			"url": "https://drive.google.com/file/d/1qe2CuQScozIz1lAyN8bmwc-hkcKx4fDY/",
+			"extra": "198 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "April 18 - CBCS ",
+			"url": "https://drive.google.com/file/d/18QKK53jiOnuIuu2IDIJ8rxhNP4hoGBXy/",
+			"extra": "292 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/1MPk4FsacIdz4kX6XdLFAnOmQUWcamzmd/",
+			"extra": "196 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "April 18",
+			"url": "https://drive.google.com/file/d/1-7WWhU_Xz4MzuSqVdsxsRsPDDDKaavQT/",
+			"extra": "321 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUHhNNmstWm4yanM",
+			"extra": "744 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "Nov 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbjROUklXbTRoa0U",
+			"extra": "725 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcW5mYlo5b29uVVE",
+			"extra": "800 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "Nov 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRE1BTXVrVkFpeDQ",
+			"extra": "764 KB"
+		},
+		{
+			"title": "APP-2",
+			"desc": "May 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWY3ZGRMc1l2Y28",
+			"extra": "732 KB"
+		},
+		{
+			"title": "DPCP  (CBCS)",
+			"desc": "Dec 16, April & Nov 17 (CBCS)",
+			"url": "https://drive.google.com/file/d/1uNTwrWTwqvi6pZmEkl0BXfOUyR7GI9Rv/",
+			"extra": "1.5 MB"
+		},
+		{
+			"title": "Pharmacognosy-1  (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1wiNJ3Orf47rs_l0IOe9k_1jGJBSAPzc7",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1Dk65jwmXnMg9L8SBdxJRzyufTxPFVxIu",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "May 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbnpBc2xuVDV6cDQ",
+			"extra": "769 KB"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "Nov 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjN1VCTWZDUm9UR1E",
+			"extra": "667 KB"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjLWlmbHVWZ1ZNRFk",
+			"extra": "851 KB"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "Nov 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjT3ZyUXpKRi1WRFk",
+			"extra": "737 KB"
+		},
+		{
+			"title": "Pharmaceutics-1",
+			"desc": "May 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWWUxUEQ0TVQtNDQ",
+			"extra": "777 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/1roseJn54JBCKSCIlKOAZafqPw-onrTIT/",
+			"extra": "583 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "April 18",
+			"url": "https://drive.google.com/file/d/1wZGP8N5C2OFmmCuvnlI2xMBG81AUUFUz/",
+			"extra": "268 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Dec 17",
+			"url": "https://drive.google.com/file/d/1uHJXKN8pROqUFVgeC5MCtnIdAsv28reo/",
+			"extra": "289 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "March 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjd3NpbDhPZ1h5U00/",
+			"extra": "833 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZzE5dzkweFBfMVU/",
+			"extra": "717 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjS0NoZFpRSWNVdms/",
+			"extra": "778 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjajFOYlRNX1BEeVU/",
+			"extra": "745 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Apr 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZzVLd09EWjhXaFE/",
+			"extra": "777 KB"
+		},
+		{
+			"title": "PP-1",
+			"desc": "Dec 12",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSkVkMllEUEowSms/",
+			"extra": "760 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Apr 18",
+			"url": "https://drive.google.com/file/d/1WfT7qEJM64ZvLfjepg1bnU2Mshy33387/",
+			"extra": "310 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/1pCpokLl-H8i_h1PUYm7Mpl9cx0GrDuMv/",
+			"extra": "217 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbktXZUFScWNfbEU",
+			"extra": "703 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Nov 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUmwwMEQzZ0RBdlk",
+			"extra": "579 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "May 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZnVnTm1qWTlTd0E",
+			"extra": "683 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Nov 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVDAyeUdPUXNwTlE",
+			"extra": "697 KB"
+		},
+		{
+			"title": "PP-2",
+			"desc": "Apr 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZjc2MDFlazFKSzA",
+			"extra": "509 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 18 - CBCS",
+			"url": "https://drive.google.com/file/d/18wuYj6TlEI_rspMxPlwNeTwzziNXQG3f/",
+			"extra": "232 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Apr 18 - CBCS",
+			"url": "https://drive.google.com/file/d/148o69dM1CGLO6IpoxAuSORpDrwNK3Mej/",
+			"extra": "231 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Apr 18",
+			"url": "https://drive.google.com/file/d/1_1fBhKips7a9pF-i1k53I0L4Pmxn5nnt/",
+			"extra": "263 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 18",
+			"url": "https://drive.google.com/file/d/190jxuI0a8TYJ1yxM_UibOcoNSkijybp8/",
+			"extra": "309 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 17",
+			"url": "https://drive.google.com/file/d/1w7hXp1kYIgBn8jpQEDQBtaGaztMPBQwN/",
+			"extra": "323 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Apr 15",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZDVlRXRSNTJDSWc/",
+			"extra": "714 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjM2xQeVNlczd6SkU/",
+			"extra": "618 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Apr 14",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjSk1UZEFvcUo5eWs/",
+			"extra": "436 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjcmVSTjdVT3RsTjQ/",
+			"extra": "530 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Apr 13",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZGhCR3Z4UDEtSzQ/",
+			"extra": "530 KB"
+		},
+		{
+			"title": "EVS",
+			"desc": "Dec 12",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTi1QWGcwbTJXN3M/",
+			"extra": "427 KB"
+		},
+		{
+			"title": "HPDSM (CBCS)",
+			"desc": "Dec 17 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1-r3Ol4orYSZv2poOrOelxaWrUBE8SJrT",
+			"extra": "Folder"
+		}
+	],
+	"Videos": [
+		{
+			"title": "The Human Cell - Parts & Cell Division ",
+			"url": "https://youtu.be/uvzMpkjdivM",
+			"desc": "Video length: 8:10",
+			"extra": "https://i.ytimg.com/vi/uvzMpkjdivM/hqdefault.jpg"
+		},
+		{
+			"title": "Tissues : Epithelial Tissue || Muscular Tissue ",
+			"url": "https://youtu.be/wgm1H5tFom4",
+			"desc": "Video length: 4:27",
+			"extra": "https://i.ytimg.com/vi/wgm1H5tFom4/sddefault.jpg"
+		},
+		{
+			"title": "Tissues : Connective Tissue || Nervous Tissue ",
+			"url": "https://youtu.be/o7roqXxtUPg",
+			"desc": "Video length: 6:19",
+			"extra": "https://i.ytimg.com/vi/o7roqXxtUPg/maxresdefault.jpg"
+		},
+		{
+			"title": "Blood - The Fluid Tissue ",
+			"url": "https://youtu.be/xQwKVVmpBvQ",
+			"desc": "Video length: 3:41",
+			"extra": "https://i.ytimg.com/vi/xQwKVVmpBvQ/maxresdefault.jpg"
+		},
+		{
+			"title": "The Lymphatic system || Immunity",
+			"url": "https://youtu.be/bd44ib-HtMM",
+			"desc": "Video length: 8:34",
+			"extra": "https://i.ytimg.com/vi/bd44ib-HtMM/maxresdefault.jpg"
+		},
+		{
+			"title": "The Respiratory System",
+			"url": "https://youtu.be/7c0cwjzucb4",
+			"desc": "Video length: 7:12",
+			"extra": "https://i.ytimg.com/vi/7c0cwjzucb4/maxresdefault.jpg"
+		},
+		{
+			"title": "The Nervous System - Brain and Cranial Nerves ",
+			"url": "https://youtu.be/hDxvwyBnpj0",
+			"desc": "Video length: 3:10",
+			"extra": "https://i.ytimg.com/vi/hDxvwyBnpj0/maxresdefault.jpg"
+		},
+		{
+			"title": "The Special Senses ",
+			"url": "https://youtu.be/fZOqGenUpao",
+			"desc": "Video length: 4:14",
+			"extra": "https://i.ytimg.com/vi/fZOqGenUpao/maxresdefault.jpg"
+		}
+	]
+}

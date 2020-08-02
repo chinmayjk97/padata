@@ -1,0 +1,518 @@
+{
+	"Books": [
+		{
+			"title": "Thomas Lemke David A. Williams - Foye's Principles of Medicinal Chemistry - Lippincott Williams & Wilkins",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeE9pTUVvM0FSU2s",
+			"desc": "7th Edition (2012)",
+			"extra": "21 MB "
+		},
+		{
+			"title": "David A Williams PhD - Essentials of Foye's Principle",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNVpwX1VpNlpJUDA",
+			"desc": "2013 Edition",
+			"extra": "38 MB"
+		},
+		{
+			"title": "An Introduction to Medicinal Chemistry , Graham L. Patrick",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjYVN4OGpBMHZIWUE",
+			"desc": "5th Edition",
+			"extra": "18 MB"
+		},
+		{
+			"title": "Fundamentals of Medicinal Chemistry , Gareth Thomas , Wiley",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjc3AzSVhRY2xma2c",
+			"desc": "1st Edition",
+			"extra": "4 MB"
+		},
+		{
+			"title": "The Organic Chemistry of Drug Design and Drug Action , Richard B. Silverman",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVWhzU2pZSTRYZ00",
+			"desc": "3rd Edition",
+			"extra": "18 MB "
+		},
+		{
+			"title": "Wilson and Gisvolds - Textbook of Organic and Pharmaceutical Chemistry",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTlljOWd2UG5WTDA",
+			"desc": "12th Edition",
+			"extra": "30 MB"
+		},
+		{
+			"title": "Medicinal Chemistry, Ashutosh Kar",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+			"desc": "4th Edition",
+			"extra": "35 MB "
+		},
+		{
+			"title": "Introduction to Medicinal Chemistry , Alex Gringauz , Wiley - How Drugs Act and Why",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQlAtVm1qS3VPSTA",
+			"desc": "1996 Edition",
+			"extra": "36 MB "
+		},
+		{
+			"title": "Synthesis of Essential Drugs , Ruben Vardanyan and Victor Hruby",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjakc5M0VOMU1BOGM",
+			"desc": "2006 Edition",
+			"extra": "4 MB "
+		},
+		{
+			"title": "D. A. Skoog, F. J. Holler and S. R. Crouch, Principles of Instrumental Analysis",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjZWZ0VDNzUm9uY2c",
+			"desc": "6th Edition",
+			"extra": "52 MB "
+		},
+		{
+			"title": "L. R. Snyder , J. J. Kirkland, J. L. Glajch , Practical HPLC Method Development",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjaGhwcFpESkcwNWs",
+			"desc": "2nd Edition",
+			"extra": "22 MB "
+		},
+		{
+			"title": "Introduction to spectroscopy by Donald L. Pavia, Gary M. Lampman, George S. Kriz, James R. Vyvyan",
+			"url": "https://drive.google.com/file/d/1unMPnqd8QS4CFfkmOWW6LzJJjEt_T7-n",
+			"desc": "5th Edition",
+			"extra": "28 MB"
+		},
+		{
+			"title": "S. Ahuja and M. W. Dong , Handbook of Pharmaceutical Analysis by HPLC",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjUEZFQ0duVzdLZjQ",
+			"desc": "Volume 6",
+			"extra": "35 MB "
+		},
+		{
+			"title": "Satoskar R.S. Bhandarkar S.D. & Rege N.N. Pharmacology & Therapeutics",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjOG01Y2VReVNlems",
+			"desc": "8th Edition",
+			"extra": "16 MB "
+		},
+		{
+			"title": "Peter N Bennett, Morris J Brown, Pankaj Sharma - Clinical pharmacology",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjVlFPUmtJcEtBOVE",
+			"desc": "11th Edition",
+			"extra": "10 MB "
+		},
+		{
+			"title": "[ Katzung ]Bertram Katzung, Anthony Trevor Basic and Clinical Pharmacology ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeWlXRk1tVEdORkU",
+			"desc": "13th Edition",
+			"extra": "49 MB"
+		},
+		{
+			"title": "Modern Pharmaceutics , Ed. By Gilbert S. Banker and Christopher T. Rhodes",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRGtZT2s1UmJHaXM",
+			"desc": "4th Edition",
+			"extra": "18 MB "
+		},
+		{
+			"title": "Ophthalmic drug delivery systems , Ed by Ashim K. Mitra",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWjk5WmJXSmk5NUk",
+			"desc": "2nd Edition",
+			"extra": "4 MB"
+		},
+		{
+			"title": "[ Brahmankar ] Biopharmaceutics and Pharmacokinetics-A Treatise Brahmankar",
+			"url": "https://drive.google.com/file/d/12SzWLlGLN8epU_Eze-tZYUGK59jFI8cC/",
+			"desc": "1st Edition",
+			"extra": "55 MB"
+		},
+		{
+			"title": "[ Chickering ] Bioadhesive Drug Delivery Systems Fundamentals, Novel Approaches, and Development by Edith Mathiowitz, Donald E. Chickering III, Claus-Michael Lehr",
+			"url": "https://drive.google.com/file/d/1ymi6N43-pcf3lACEjPlbOAKUnaKzGPK3/",
+			"desc": "Unknown Edition",
+			"extra": "98 MB"
+		},
+		{
+			"title": "[ IP ] Indian Pharmacopoeia Vol 1",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjbDdTV0xPZE1JRXM",
+			"desc": "2010 Edition",
+			"extra": "43 MB "
+		},
+		{
+			"title": "[ IP ] Indian Pharmacopoeia Vol 2",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNFpSZnhNb082bnc",
+			"desc": "2010 Edition",
+			"extra": "80 MB "
+		},
+		{
+			"title": "[ IP ] Indian Pharmacopoeia Vol 3",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjWmNqQm9GQ3N3RTg",
+			"desc": "2010 Edition",
+			"extra": "90 MB "
+		},
+		{
+			"title": "Trease D. & Evans W.C.: Text Book of Pharmacognosy : W.B. Saunders",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHja0w2MFh0ejhSb2c",
+			"desc": "16th Edition",
+			"extra": "16 MB "
+		},
+		{
+			"title": "Pharmacognosy by Dr. C. K. Kokate",
+			"url": "https://chinmayjk97.github.io/wp-content/kokate",
+			"desc": "Online Edition",
+			"extra": "Online-view only"
+		},
+		{
+			"title": "[ Quick Review ] Phamacognosy at glance by Krishna B. Bhansali",
+			"url": "https://drive.google.com/file/d/1IS2XTw4N95BUUOKyzg2qGjPMLevIffBQ",
+			"desc": "1st Edition",
+			"extra": "3 MB"
+		},
+		{
+			"title": "Ashutosh Kar - Pharmacognosy and Pharmaco- biotechnology ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjeUNkSVAyVWtaRVk",
+			"desc": "2nd Edition",
+			"extra": "7 MB"
+		},
+		{
+			"title": "Biren Shah, Avinash Seth-Textbook of Pharmacognosy and Phytochemistry-Elsevier India (2012)",
+			"url": "https://drive.google.com/file/d/1UOLpkeTVz8D4P6miW3CK3XBLf-aTWppn",
+			"desc": "1st Edition",
+			"extra": "14 MB"
+		},
+		{
+			"title": "Ashutosh. Kar, Pharmaceutical Drug Analysis",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQThWVmNOcm5kVk0",
+			"desc": "4th Edition",
+			"extra": "35 MB "
+		},
+		{
+			"title": "eBook For Pharmaceutical Jurisprudence",
+			"url": "https://drive.google.com/file/d/19IdERy_Vwn2O6UjhD_DbsuCrTLOIAAPE",
+			"desc": "1st Edition",
+			"extra": "4 MB"
+		},
+		{
+			"title": "Coming Soon...",
+			"url": "https://www.youtube.com/c/PharmaKnowledge",
+			"desc": "Coming Soon...",
+			"extra": " "
+		}
+	],
+	"QPprs": [
+		{
+			"title": "Pharmaceutical Chemistry - III ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1KIlFxktWfoNFj4Et-lyZMoeskYf6aU-Q",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutical Chemistry - III ",
+			"desc": "Nov 2017",
+			"url": "https://drive.google.com/file/d/11uzR-eX-iM7UPjqoQ9XHNRhbhKx-VEXV",
+			"extra": "734 KB"
+		},
+		{
+			"title": "Pharmaceutical Chemistry - III ",
+			"desc": "April 2017",
+			"url": "https://drive.google.com/file/d/1QAGBf49ITUFv5ns35WsYDDL2UUOCs8R_",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Pharmaceutical Chemistry - III ",
+			"desc": "March & Nov 2016",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjN3VKbW5xSVB2VTQ",
+			"extra": "1 MB"
+		},
+		{
+			"title": "Pharmaceutical Analysis- III ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1zDpqoWa1a6EZ1FZluIL2Kruu6HXxEwaL",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutical Analysis- III ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/file/d/1nu1VxcKZhi-fD8mmLQMNC8IyCqV0_xdI",
+			"extra": "996 KB "
+		},
+		{
+			"title": "Pharmaceutical Analysis- III ",
+			"desc": "April 2017 ",
+			"url": "https://drive.google.com/file/d/1nu1VxcKZhi-fD8mmLQMNC8IyCqV0_xdI",
+			"extra": "1 MB "
+		},
+		{
+			"title": "Pharmaceutical Analysis- III ",
+			"desc": "March & Nov 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjNWpDemstR1I4MDQ",
+			"extra": "1 MB "
+		},
+		{
+			"title": "Pharmacology-III ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1ISkTz_uQAIYs057Zhq0ZwHKqPnA0JSHU",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmacology-III ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/file/d/1QjuN-LamyRmDmPx8jb_cIEeGTCjlxT7B",
+			"extra": "691 KB "
+		},
+		{
+			"title": "Pharmacology-III ",
+			"desc": "April 2017 ",
+			"url": "https://drive.google.com/file/d/18uvJaa0mXYEnBsOw4l9IRm6S4EHjAyGL",
+			"extra": "581 KB "
+		},
+		{
+			"title": "Pharmacology-III ",
+			"desc": "March & Nov 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHja2xtRGRsTnk2bDA",
+			"extra": "751 KB "
+		},
+		{
+			"title": "Pharmaceutics - IV ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1nZIbddQ1aHMzh2QbXnQL0khcxUI5OYPJ",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics - IV ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/file/d/1c4FHi3UvF5NpsB6EDPYD6Febue6oksy7",
+			"extra": "577 KB "
+		},
+		{
+			"title": "Pharmaceutics - IV ",
+			"desc": "April 2017 ",
+			"url": "https://drive.google.com/file/d/1A0phlOptMV7AaJ4MoAV9mDFvP2z-UQSa",
+			"extra": "1 MB "
+		},
+		{
+			"title": "Pharmaceutics - IV ",
+			"desc": "May 2016 ",
+			"url": "https://drive.google.com/file/d/1APOjcbOk1ATO3QWPsepK7p4veRT9mQhI",
+			"extra": "444 KB "
+		},
+		{
+			"title": "Pharmaceutics - IV ",
+			"desc": "May 2015 & Nov 2016",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRG1qV2s5eXFQOWM",
+			"extra": "663 KB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry -II",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1vXOzQbUYX80fvKMwvVhWn4__g2CAjPTp",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry -II ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/file/d/10J4gYd5rXRfZoKzMV-wLBMAuPDp2epLy",
+			"extra": "430 KB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry -II ",
+			"desc": "April 2017 ",
+			"url": "https://drive.google.com/file/d/1zSOtMOSUUCBSFQ1_WFF5y3wVpfEN2pxO",
+			"extra": "469 KB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry -II ",
+			"desc": "March & Nov 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjX084bGw2MHRfZEE",
+			"extra": "761 KB "
+		},
+		{
+			"title": "Pharmaceutical Jurisprudence ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1lCrDz93QUXI-nwZQqTbY5mne0D5SQuvm",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutical Jurisprudence ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/file/d/1qd7nWtW2magO8Pemeqg32u70Wfcuw_-W",
+			"extra": "666 KB "
+		},
+		{
+			"title": "Pharmaceutical Jurisprudence ",
+			"desc": "May 2017 ",
+			"url": "https://drive.google.com/file/d/19KBiQbhumsMQATb5aThiY1_AepT1Ne-F",
+			"extra": "730 KB "
+		},
+		{
+			"title": "Pharmaceutical Jurisprudence ",
+			"desc": "March & Nov 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjMkR5ZTVNT0FpRFU",
+			"extra": "777 KB "
+		},
+		{
+			"title": "Pharmaceutical Chemistry - IV ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1D8euhwl_ulXPBp2gKinKHYo9fD1Qri80",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutical Chemistry-IV ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=19SdXPXswXjIJIhFzOBViRsyetFU8o5IH",
+			"extra": "2 MB "
+		},
+		{
+			"title": "Pharmaceutical Chemistry-IV ",
+			"desc": " 2016 ",
+			"url": "https://drive.google.com/open?id=0B6z9_azvPvHjSE1YTklWWEpEaGM",
+			"extra": "720 KB "
+		},
+		{
+			"title": "Pharmaceutical Chemistry-IV ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1Zmn3ErOf5m7WIHWnXo2r1vxQryU-M0Kd",
+			"extra": "2 MB "
+		},
+		{
+			"title": "Pharmaceutics - V ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1tsR27vZLK09f55Z82RhrdwyBL785fPjv",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmaceutics-V ",
+			"desc": "April 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjRE5SdXEwSWxhQVE",
+			"extra": "452 KB "
+		},
+		{
+			"title": "Pharmaceutics-V ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1BSqPxI1CNHWXGtAYZA39NhYrC2Fr0CBB",
+			"extra": " 1 MB "
+		},
+		{
+			"title": "Pharmaceutics-V ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1rf2JEaftGnYW4WicbA50Ix-Z2DiUtT0M",
+			"extra": " 2 MB "
+		},
+		{
+			"title": "Biopharmaceutics & Pharmacokinetics ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1Bv_F3zFP-rKrmX4noDDKl8qE7UCDPqRB",
+			"extra": "Folder"
+		},
+		{
+			"title": "Biopharmaceutics & Pharmacokinetics ",
+			"desc": "April 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjejJXZmRIT2Z0OWc",
+			"extra": "430 KB "
+		},
+		{
+			"title": "Biopharmaceutics & Pharmacokinetics ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1sE4vK8RBfCejX7M1kOpi56LFj2_xOsiy",
+			"extra": " 615 KB "
+		},
+		{
+			"title": "Biopharmaceutics & Pharmacokinetics ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1zpazU1vD7pIiXndOVyd9Uq-Tl0KulPgV",
+			"extra": " 2 MB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry -III",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/1ffiz5xqsXFGExxBrnyVN3adTrij7AOea",
+			"extra": "Folder"
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry-III ",
+			"desc": "April 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjQW42ckdfa1dtNE0",
+			"extra": "267 KB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry-III ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1iHLsYrGlk0KLlxsGAJajod-pT6HFBo--",
+			"extra": " 2 MB "
+		},
+		{
+			"title": "Pharmacognosy & Phytochemistry-III ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1kYSidJs8DGhHOMiUlXCS892Ei6mH6_lF",
+			"extra": " 1 MB "
+		},
+		{
+			"title": "Clinical Pharmacy ",
+			"desc": "April 18 - Dec 18",
+			"url": "https://drive.google.com/drive/folders/100IroZHWZqobzqdzHstJE1SF9MNFRZCO",
+			"extra": "Folder"
+		},
+		{
+			"title": "Clinical Pharmacy ",
+			"desc": "May 2016 ",
+			"url": "https://drive.google.com/file/d/0B6z9_azvPvHjTjBPcFBtVFRaWWM",
+			"extra": "334 KB "
+		},
+		{
+			"title": "Clinical Pharmacy ",
+			"desc": " - ",
+			"url": "https://drive.google.com/open?id=1L28OVCec9lATGD2xxsCpKehUK3ZcBgQY",
+			"extra": "3 MB "
+		},
+		{
+			"title": "Clinical Pharmacy ",
+			"desc": "Nov 2017 ",
+			"url": "https://drive.google.com/open?id=1c4v5l0CrBZRNVlXPX-Hz0JqPtu9MvAw3",
+			"extra": "310 KB "
+		}
+	],
+	"Videos": [
+		{
+			"title": "FLAVONOIDS",
+			"url": "https://youtu.be/ufG3UUUHr0M",
+			"desc": "Video length: 5:12",
+			"extra": "https://i.ytimg.com/vi/ufG3UUUHr0M/maxresdefault.jpg"
+		},
+		{
+			"title": "Mucoadhesive Drug Delivery System",
+			"url": "https://youtu.be/KzSFC72qNek",
+			"desc": "Video length: 7:44",
+			"extra": "https://i.ytimg.com/vi/KzSFC72qNek/maxresdefault.jpg"
+		},
+		{
+			"title": "Bioflavanoids Steroids MCQ | Pharmacognosy MCQ | GPAT MCQ | NIPER MCQ",
+			"url": "https://youtu.be/oSVuXJ3jmKs",
+			"desc": "Video length: 8:00",
+			"extra": "https://i.ytimg.com/vi/oSVuXJ3jmKs/maxresdefault.jpg"
+		},
+		{
+			"title": "Using EndNote as Citation Manager | Reference Manager | Research Scholar Tool",
+			"url": "https://youtu.be/JBhyauVhjVE",
+			"desc": "Video length: 7:40",
+			"extra": "https://i.ytimg.com/vi/JBhyauVhjVE/maxresdefault.jpg"
+		},
+		{
+			"title": "Inserting Table of Contents | Table of Tables | Table of Figures",
+			"url": "https://youtu.be/eHnJ5f-MgGI",
+			"desc": "Video length: 9:22",
+			"extra": "https://i.ytimg.com/vi/eHnJ5f-MgGI/maxresdefault.jpg"
+		},
+		{
+			"title": "Mendeley as Citation Manager | Reference Manager | Research Scholar Tool",
+			"url": "https://youtu.be/wqlqHi0PILE",
+			"desc": "Video length: 4:20",
+			"extra": "https://i.ytimg.com/vi/wqlqHi0PILE/maxresdefault.jpg"
+		},
+		{
+			"title": "How to Insert Chemical Structure and Reactions | Chemdraw | Research Tool",
+			"url": "https://youtu.be/mTAPyqXiiN4",
+			"desc": "Video length: 9:16",
+			"extra": "https://i.ytimg.com/vi/mTAPyqXiiN4/maxresdefault.jpg"
+		},
+		{
+			"title": "PharmaAssist App Promo Video | All-in-One Pharmacy App",
+			"url": "https://youtu.be/5K2faPpquR8",
+			"desc": "Video length: 1:00",
+			"extra": "https://i.ytimg.com/vi/5K2faPpquR8/maxresdefault.jpg"
+		},
+		{
+			"title": "Coming Soon...",
+			"url": "https://www.youtube.com/c/PharmaKnowledge",
+			"desc": "Not Available",
+			"extra": "https://lh3.googleusercontent.com/mhbzzCH5hRkl7ytBrX9USZ81s0wA1cwD48jC4HDwyitrKaylXbAEVTqdo-790ry91MkWRt33AM6_6Blokf-7voWcyDqsRYAEqzapzhoaIMqq2K0tzqolIRQbFmtzxcKZntG2o8E4cLy7NvKdAsmJFP4YflmKMnKHF9NicOxFV2Dk-yvt74W1hWGALmYUAbVZzp1sj4ZdY1_ygsMr-zFmb_aAp57JqipgS1MciE3yUeMLfpQ3mmuHT6NrwWADiR-soYXgzkXiatL_UV03Wvr-f6EvnZF-1LiWR6gtQcBiCG6Wuzb1OnX9G8PjGJXQ2REty2yBYMkgXu92oT2kWvKylWPIo4j_2OnmbpN8tbv_BEUAXV7nOzp0c_wGs_pmdN8OEKPhdga0t3H5xeJh89lC65eXQWeGOhWC6oTr3oNlEV4U1Bpx3Ae1sb0Hgb5lvu-A3nlaVBboBP7pxEamekrkRTPbg-8WQbvUSSZobz_mmkP8dvIDbwTN192akK4hRI0aiZRHUT2qcnyU3FjJo1OLwViz-x3l-YtpmCqpxdLg5WBzbfw4aGVxz49igD1c9-1IOqNTnF2LDuwaJYivQ-3BbkwbULy-6_K5AW6by5xpru529uXCkac=w1135-h638-no"
+		}
+	]
+}
