@@ -1,0 +1,185 @@
+{
+	"Date": "05/01/2020",
+	"Weekly_Questions": [
+		{
+			"gpat_q": "Procedure of separating enatiomers is known as",
+			"gpat_a1": "Revolution",
+			"gpat_a2": "Resolution",
+			"gpat_a3": "Racemization",
+			"gpat_a4": "None",
+			"gpat_correct_a": "3",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Which one of the following statements is WRONG?",
+			"gpat_a1": "A singlet or triplet state may result when one of the electrons from the HOMO is excited to higher energy levels",
+			"gpat_a2": "In an excited singlet state, the spin of the electron in the higher energy orbital is paired with the electron in the ground state orbital",
+			"gpat_a3": "Triplet excited state is more stable than the singlet excited state",
+			"gpat_a4": "When the electron from the singlet excited state returns to ground state, the molecule always show fluorescence phenomenon ",
+			"gpat_correct_a": "3",
+			"reason": ""
+		},
+		{
+			"gpat_q": "In the TCA cycle, at which of the following enzyme-catalyzed steps,  incorporation of elements of water into an intermediate of the cycle takes place : ",
+			"gpat_a1": "Maleate dehydrogenase",
+			"gpat_a2": "Succinyl Co-A synthase",
+			"gpat_a3": "Citrate synthase",
+			"gpat_a4": "Aconitase",
+			"gpat_correct_a": "1",
+			"reason": ""
+		},
+		{
+			"gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
+			"gpat_a1": "An air-conditioned area a 10 degrees",
+			"gpat_a2": "A refrigerator at 15 degrees",
+			"gpat_a3": "A place whose temperature is set at 5 degrees",
+			"gpat_a4": "Room temperature, at 25 degrees",
+			"gpat_correct_a": "2",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Humectants added in cosmetic preparations generally act by",
+			"gpat_a1": "covalent bond formation",
+			"gpat_a2": "hydrogen bond formation",
+			"gpat_a3": "complex formation",
+			"gpat_a4": "the action of London forces",
+			"gpat_correct_a": "2",
+			"reason": ""
+		},
+		{
+			"gpat_q": "________ is a morpholino ethyl ether of morphine",
+			"gpat_a1": "Nalorphine",
+			"gpat_a2": "Apomorphine",
+			"gpat_a3": "Pholcodine",
+			"gpat_a4": "Hydrocodone",
+			"gpat_correct_a": "3",
+			"reason": "https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
+		},
+		{
+			"gpat_q": "Thioglycolic acid-like compounds have applications in following type of cosmetic formulation ",
+			"gpat_a1": "Depilatory preparations",
+			"gpat_a2": "Epilatory preparations",
+			"gpat_a3": "Vanishing creams",
+			"gpat_a4": "Skin tan preparation",
+			"gpat_correct_a": "1",
+			"reason": ""
+		},
+		{
+			"gpat_q": "The applicability of Noyes-Whitney equation is to describe",
+			"gpat_a1": "First order kinetics",
+			"gpat_a2": "Zero order kinetics",
+			"gpat_a3": "Mixed order kinetics",
+			"gpat_a4": "Dissolution rate",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Match the following antibiotics according to their site of action \n1. Rifamycin 2. Chloramphenicol. 3.Cycloserine \na. Nuclic acid b.  Ribosomes c. Cell wall",
+			"gpat_a1": "1- b, 2-c, 3- a ",
+			"gpat_a2": "1-c, 2-a, 3-b",
+			"gpat_a3": "1-a, 2-b, 3-c",
+			"gpat_a4": "None of these",
+			"gpat_correct_a": "3",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Repacking licence can be issued in which form as per the drug and cosmetic act 1940",
+			"gpat_a1": "Form 25A",
+			"gpat_a2": "Form 25B",
+			"gpat_a3": "Form 24A",
+			"gpat_a4": "Form 24B",
+			"gpat_correct_a": "2",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
+			"gpat_a1": "Acetazolamide",
+			"gpat_a2": "Amiloride",
+			"gpat_a3": "Mannitol",
+			"gpat_a4": "Furosemide",
+			"gpat_correct_a": "3",
+			"reason": ""
+		},
+		{
+			"gpat_q": "A small amount of Tween 80 or Fatty acid monoglycerate are added in manufacturing of suppositories to overcome",
+			"gpat_a1": "Volume correction",
+			"gpat_a2": "Density",
+			"gpat_a3": "Viscosity",
+			"gpat_a4": "Brittleness",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Which one is known as Chinese ginseng?",
+			"gpat_a1": "Panax ginseng",
+			"gpat_a2": "Panax notoginseng",
+			"gpat_a3": "Panax quinquefolium",
+			"gpat_a4": "Panax trifolis",
+			"gpat_correct_a": "2",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Which ocular toxicity is associated with Digoxin",
+			"gpat_a1": "Glaucoma",
+			"gpat_a2": "Retinal pigmentation",
+			"gpat_a3": "Visual field constrictio",
+			"gpat_a4": "Scotoma",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Rose waaler test is related with which disease",
+			"gpat_a1": "Polio",
+			"gpat_a2": "Osteoarthritis",
+			"gpat_a3": "Orthostatic hypotension",
+			"gpat_a4": "Rheumatoid arthritis",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Androgens are produced by",
+			"gpat_a1": "Cells of sertoli",
+			"gpat_a2": "Leydig cells",
+			"gpat_a3": "Rete testis",
+			"gpat_a4": "Efferent ductules",
+			"gpat_correct_a": "2",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Spurious drug is",
+			"gpat_a1": "If it is imported under the name which belongs to another drug",
+			"gpat_a2": "If it is imitation or substitute of another drug",
+			"gpat_a3": "Its claiming but to but it is not product of company",
+			"gpat_a4": "All of the above",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "One of the following is used topically",
+			"gpat_a1": "Sulfamethoxazole",
+			"gpat_a2": "Sulphadimidine",
+			"gpat_a3": "Trimethoprim",
+			"gpat_a4": "Sulfadiazine",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
+			"gpat_a1": "Reserpine",
+			"gpat_a2": "Captopril",
+			"gpat_a3": "Methyl dopa",
+			"gpat_a4": "Propranalol",
+			"gpat_correct_a": "2",
+			"reason": "Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
+		},
+		{
+			"gpat_q": "Progesterone injection BP is a sterile solution in ",
+			"gpat_a1": "Water",
+			"gpat_a2": "Ethyl oleate",
+			"gpat_a3": "Propylene glycol",
+			"gpat_a4": "Glycerol",
+			"gpat_correct_a": "2",
+			"reason": ""
+		}
+	]
+}
