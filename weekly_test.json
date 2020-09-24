@@ -1,185 +1,185 @@
 {
-	"Date": "05/01/2020",
+	"Date": "12/07/2020",
 	"Weekly_Questions": [
 		{
-			"gpat_q": "Procedure of separating enatiomers is known as",
-			"gpat_a1": "Revolution",
-			"gpat_a2": "Resolution",
-			"gpat_a3": "Racemization",
-			"gpat_a4": "None",
-			"gpat_correct_a": "3",
-			"reason": ""
+			"gpat_q": "Ashwagandha is also known as",
+			"gpat_a1": "Withania root",
+			"gpat_a2": "Shatmuli",
+			"gpat_a3": "Virgianian bark",
+			"gpat_a4": "none of these",
+			"gpat_correct_a": "1",
+			"reason": "Withania somnifera, known commonly as ashwagandha, Indian ginseng, poison gooseberry, or winter cherry, is a plant in the Solanaceae or nightshade family."
 		},
 		{
-			"gpat_q": "Which one of the following statements is WRONG?",
-			"gpat_a1": "A singlet or triplet state may result when one of the electrons from the HOMO is excited to higher energy levels",
-			"gpat_a2": "In an excited singlet state, the spin of the electron in the higher energy orbital is paired with the electron in the ground state orbital",
-			"gpat_a3": "Triplet excited state is more stable than the singlet excited state",
-			"gpat_a4": "When the electron from the singlet excited state returns to ground state, the molecule always show fluorescence phenomenon ",
-			"gpat_correct_a": "3",
-			"reason": ""
-		},
-		{
-			"gpat_q": "In the TCA cycle, at which of the following enzyme-catalyzed steps,  incorporation of elements of water into an intermediate of the cycle takes place : ",
-			"gpat_a1": "Maleate dehydrogenase",
-			"gpat_a2": "Succinyl Co-A synthase",
-			"gpat_a3": "Citrate synthase",
-			"gpat_a4": "Aconitase",
+			"gpat_q": "One of the following dominantly contain mucilage",
+			"gpat_a1": "Isapghol",
+			"gpat_a2": "Cascara",
+			"gpat_a3": "Liquorice",
+			"gpat_a4": "Ajwan",
 			"gpat_correct_a": "1",
 			"reason": ""
 		},
 		{
-			"gpat_q": "The storage direction on a parenteral solution specify 'Store in a cool place'. This may be stored in",
-			"gpat_a1": "An air-conditioned area a 10 degrees",
-			"gpat_a2": "A refrigerator at 15 degrees",
-			"gpat_a3": "A place whose temperature is set at 5 degrees",
-			"gpat_a4": "Room temperature, at 25 degrees",
+			"gpat_q": "Biochemical target in pharmaceutical lead discovery may be",
+			"gpat_a1": "Enzymes",
+			"gpat_a2": "Receptor",
+			"gpat_a3": "Ion channels",
+			"gpat_a4": "All of these",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Carbohydrate consisting of methoxylated polygalactouronic acid is",
+			"gpat_a1": "Chitin",
+			"gpat_a2": "Pectin",
+			"gpat_a3": "Suberin",
+			"gpat_a4": "All of these",
+			"gpat_correct_a": "2",
+			"reason": "Pectin is a complex polysaccharide consisting mainly of methoxy esterified α, d-1, 4-galacturonic acid units. Pectins are categorized according to their methoxy content and whether they form gels quickly or slowly. Approximately, pectins can be categorized as high methoxy pectins (>50% esterified) and low methoxy pectins (<50% esterified). "
+		},
+		{
+			"gpat_q": "Cystoliths present in",
+			"gpat_a1": "Vinica leaves",
+			"gpat_a2": "Datura leaves",
+			"gpat_a3": "Digitalis leaves",
+			"gpat_a4": "Vasaka leaves",
+			"gpat_correct_a": "4",
+			"reason": ""
+		},
+		{
+			"gpat_q": "Virus free plant can be obtained from",
+			"gpat_a1": "root culture",
+			"gpat_a2": "meristem culture",
+			"gpat_a3": "anther culture",
+			"gpat_a4": "All of these",
 			"gpat_correct_a": "2",
 			"reason": ""
 		},
 		{
-			"gpat_q": "Humectants added in cosmetic preparations generally act by",
-			"gpat_a1": "covalent bond formation",
-			"gpat_a2": "hydrogen bond formation",
-			"gpat_a3": "complex formation",
-			"gpat_a4": "the action of London forces",
+			"gpat_q": "The protein part of enzyme is referred as",
+			"gpat_a1": "holoenzyme",
+			"gpat_a2": "apoenzyme",
+			"gpat_a3": "prosthetic group",
+			"gpat_a4": "activator",
 			"gpat_correct_a": "2",
-			"reason": ""
+			"reason": "https://live.staticflickr.com/8574/29092585525_0521f29ea1.jpg"
 		},
 		{
-			"gpat_q": "________ is a morpholino ethyl ether of morphine",
-			"gpat_a1": "Nalorphine",
-			"gpat_a2": "Apomorphine",
-			"gpat_a3": "Pholcodine",
-			"gpat_a4": "Hydrocodone",
-			"gpat_correct_a": "3",
-			"reason": "https://pubchem.ncbi.nlm.nih.gov/compound/pholcodine"
-		},
-		{
-			"gpat_q": "Thioglycolic acid-like compounds have applications in following type of cosmetic formulation ",
-			"gpat_a1": "Depilatory preparations",
-			"gpat_a2": "Epilatory preparations",
-			"gpat_a3": "Vanishing creams",
-			"gpat_a4": "Skin tan preparation",
+			"gpat_q": "Exrachromosomal DNA which irreversibly integrate in the host DNA is called",
+			"gpat_a1": "plasmid",
+			"gpat_a2": "mesosome",
+			"gpat_a3": "episome",
+			"gpat_a4": "none of these",
 			"gpat_correct_a": "1",
+			"reason": "A plasmid is a small, extrachromosomal DNA molecule within a cell that is physically separated from chromosomal DNA and can replicate independently. They are most commonly found as small circular, double-stranded DNA molecules in bacteria; however, plasmids are sometimes present in archaea and eukaryotic organisms."
+		},
+		{
+			"gpat_q": "Total number of Purine nucleotides is equal to total number of Pyrimidine nucleotides. This according to",
+			"gpat_a1": "Watson & Crick model",
+			"gpat_a2": "Bohr’s model",
+			"gpat_a3": "Chargaff’s rule",
+			"gpat_a4": "none of these",
+			"gpat_correct_a": "3",
+			"reason": "Chargaff's rules state that DNA from any cell of any organism should have a 1:1 stoichiometric ratio of pyrimidine and purine bases and, more specifically, that the amount of guanine should be equal to cytosine and the amount of adenine should be equal to thymine. This pattern is found in both strands of the DNA."
+		},
+		{
+			"gpat_q": "In the cell culture, which gas is used in Cryopreservation of animal cells",
+			"gpat_a1": "O2",
+			"gpat_a2": "N2",
+			"gpat_a3": "SO2",
+			"gpat_a4": "CO2",
+			"gpat_correct_a": "2",
+			"reason": "Liquid nitrogen is a non-mechanical method of cryopreserving cells. A large thermos-like container is used to house either racks or sleeves that hold cryogenic vials. Cells stored in nitrogen can be placed above the liquid in a cold vapor phase or in the liquid nitrogen itself (-196°C)."
+		},
+		{
+			"gpat_q": "Enzyme used for conversion of m-RNA into c-DNA is",
+			"gpat_a1": "DNA polymerase",
+			"gpat_a2": "DNA ligase",
+			"gpat_a3": "Reverse transcriptase",
+			"gpat_a4": "RNA polymerase",
+			"gpat_correct_a": "3",
+			"reason": "The synthesis of DNA from an RNA template, via reverse transcription, produces complementary DNA (cDNA). Reverse transcriptases (RTs) use an RNA template and a short primer complementary to the 3' end of the RNA to direct the synthesis of the first strand cDNA, which can be used directly as a template for the Polymerase Chain Reaction (PCR). This combination of reverse transcription and PCR (RT-PCR) allows the detection of low abundance RNAs in a sample, and production of the corresponding cDNA, thereby facilitating the cloning of low copy genes. Alternatively, the first-strand cDNA can be made double-stranded using DNA Polymerase I and DNA Ligase. These reaction products can be used for direct cloning without amplification."
+		},
+		{
+			"gpat_q": "Resolving power of electron microscope is near about",
+			"gpat_a1": "1 nm",
+			"gpat_a2": "0.1 nm",
+			"gpat_a3": "0.01 nm",
+			"gpat_a4": "0.001 nm",
+			"gpat_correct_a": "2",
 			"reason": ""
 		},
 		{
-			"gpat_q": "The applicability of Noyes-Whitney equation is to describe",
-			"gpat_a1": "First order kinetics",
-			"gpat_a2": "Zero order kinetics",
-			"gpat_a3": "Mixed order kinetics",
-			"gpat_a4": "Dissolution rate",
+			"gpat_q": "The substances which are incapable to induce antibody formation themselves but can react with antibodies are known as",
+			"gpat_a1": "Antigen",
+			"gpat_a2": "Haptenes",
+			"gpat_a3": "Complete Antigen",
+			"gpat_a4": "none of these",
+			"gpat_correct_a": "2",
+			"reason": "Haptens are small molecules that elicit an immune response only when attached to a large carrier such as a protein; the carrier may be one that also does not elicit an immune response by itself."
+		},
+		{
+			"gpat_q": "Diagnostic test for Scarlet fever is",
+			"gpat_a1": "Fris test",
+			"gpat_a2": "Paulbunnen test",
+			"gpat_a3": "Schultz-Charton test",
+			"gpat_a4": "Dick Test",
 			"gpat_correct_a": "4",
-			"reason": ""
+			"reason": "Dick and Gladys Dick, was used to identify those susceptible to scarlet fever. The Dick test consisted of injecting a diluted strain of the streptococci known to cause scarlet fever into a person's skin."
 		},
 		{
-			"gpat_q": "Match the following antibiotics according to their site of action \n1. Rifamycin 2. Chloramphenicol. 3.Cycloserine \na. Nuclic acid b.  Ribosomes c. Cell wall",
-			"gpat_a1": "1- b, 2-c, 3- a ",
-			"gpat_a2": "1-c, 2-a, 3-b",
-			"gpat_a3": "1-a, 2-b, 3-c",
-			"gpat_a4": "None of these",
+			"gpat_q": "The most abundant amino-acid present in the body is",
+			"gpat_a1": "Alanine",
+			"gpat_a2": "Gultamine",
+			"gpat_a3": "Aspargine",
+			"gpat_a4": "Tyrosine",
+			"gpat_correct_a": "2",
+			"reason": "Glutamine is the most abundant amino acid in our bodies and performs several important functions. In humans, glutamine is synthesized from glutamic acid and this conversion step is vitally important in regulating the level of toxic ammonia in the body, forming urea and purines."
+		},
+		{
+			"gpat_q": "All of the followings are fat soluble vitamins except",
+			"gpat_a1": "Vit A",
+			"gpat_a2": "Vit K",
+			"gpat_a3": "Vit C",
+			"gpat_a4": "Vit E",
+			"gpat_correct_a": "3",
+			"reason": "Vitamin B and Vitamin C are ony water soluble Vitamins"
+		},
+		{
+			"gpat_q": "The first line drug for Burkett’s lymphoma is",
+			"gpat_a1": "Dauxorubicin",
+			"gpat_a2": "Actinomycine-D",
+			"gpat_a3": "Cyclophosphamide",
+			"gpat_a4": "Vinblastin",
 			"gpat_correct_a": "3",
 			"reason": ""
 		},
 		{
-			"gpat_q": "Repacking licence can be issued in which form as per the drug and cosmetic act 1940",
-			"gpat_a1": "Form 25A",
-			"gpat_a2": "Form 25B",
-			"gpat_a3": "Form 24A",
-			"gpat_a4": "Form 24B",
+			"gpat_q": "Dale’s experiment is related with",
+			"gpat_a1": "Angiotensine",
+			"gpat_a2": "Serotonine",
+			"gpat_a3": "Adrenaline",
+			"gpat_a4": "Acetylcholine",
+			"gpat_correct_a": "4",
+			"reason": "https://image.slidesharecdn.com/historyofneurotransmissionandintroductiontoans-140625123605-phpapp02/95/history-of-neurotransmission-and-introduction-to-ans-23-638.jpg?cb=1403699890"
+		},
+		{
+			"gpat_q": "Straub reaction in rats is shown by",
+			"gpat_a1": "Ephedrine",
+			"gpat_a2": "Morphine",
+			"gpat_a3": "Histamine",
+			"gpat_a4": "Dopamine",
 			"gpat_correct_a": "2",
 			"reason": ""
 		},
 		{
-			"gpat_q": "Which of the following diuretic would be most useful in patient with cerebral edema?",
-			"gpat_a1": "Acetazolamide",
-			"gpat_a2": "Amiloride",
-			"gpat_a3": "Mannitol",
-			"gpat_a4": "Furosemide",
+			"gpat_q": "De-Jalons method is used in the bioassay of",
+			"gpat_a1": "Insulin",
+			"gpat_a2": "Digitalis",
+			"gpat_a3": "Adrenaline",
+			"gpat_a4": "Histamine",
 			"gpat_correct_a": "3",
-			"reason": ""
-		},
-		{
-			"gpat_q": "A small amount of Tween 80 or Fatty acid monoglycerate are added in manufacturing of suppositories to overcome",
-			"gpat_a1": "Volume correction",
-			"gpat_a2": "Density",
-			"gpat_a3": "Viscosity",
-			"gpat_a4": "Brittleness",
-			"gpat_correct_a": "4",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Which one is known as Chinese ginseng?",
-			"gpat_a1": "Panax ginseng",
-			"gpat_a2": "Panax notoginseng",
-			"gpat_a3": "Panax quinquefolium",
-			"gpat_a4": "Panax trifolis",
-			"gpat_correct_a": "2",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Which ocular toxicity is associated with Digoxin",
-			"gpat_a1": "Glaucoma",
-			"gpat_a2": "Retinal pigmentation",
-			"gpat_a3": "Visual field constrictio",
-			"gpat_a4": "Scotoma",
-			"gpat_correct_a": "4",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Rose waaler test is related with which disease",
-			"gpat_a1": "Polio",
-			"gpat_a2": "Osteoarthritis",
-			"gpat_a3": "Orthostatic hypotension",
-			"gpat_a4": "Rheumatoid arthritis",
-			"gpat_correct_a": "4",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Androgens are produced by",
-			"gpat_a1": "Cells of sertoli",
-			"gpat_a2": "Leydig cells",
-			"gpat_a3": "Rete testis",
-			"gpat_a4": "Efferent ductules",
-			"gpat_correct_a": "2",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Spurious drug is",
-			"gpat_a1": "If it is imported under the name which belongs to another drug",
-			"gpat_a2": "If it is imitation or substitute of another drug",
-			"gpat_a3": "Its claiming but to but it is not product of company",
-			"gpat_a4": "All of the above",
-			"gpat_correct_a": "4",
-			"reason": ""
-		},
-		{
-			"gpat_q": "One of the following is used topically",
-			"gpat_a1": "Sulfamethoxazole",
-			"gpat_a2": "Sulphadimidine",
-			"gpat_a3": "Trimethoprim",
-			"gpat_a4": "Sulfadiazine",
-			"gpat_correct_a": "4",
-			"reason": ""
-		},
-		{
-			"gpat_q": "Anti hypertensive drug inhibits the renin angiotensin system is",
-			"gpat_a1": "Reserpine",
-			"gpat_a2": "Captopril",
-			"gpat_a3": "Methyl dopa",
-			"gpat_a4": "Propranalol",
-			"gpat_correct_a": "2",
-			"reason": "Reserpine's mechanism of action is through inhibition of the ATP/Mg2+ pump responsible for the sequestering of neurotransmitters into storage vesicles located in the presynaptic neuron. \n\nCaptopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). \n\nα-Methylnorepinephrine is an agonist of presynaptic central nervous system α2 adrenergic receptors. Activation of these receptors in the brainstem appears to inhibit sympathetic nervous system output and lower blood pressure.\n\nPropranolol is a non-selective beta blocker; that is, it blocks the action of epinephrine (adrenaline) and norepinephrine (noradrenaline) at both β1- and β2-adrenergic receptors "
-		},
-		{
-			"gpat_q": "Progesterone injection BP is a sterile solution in ",
-			"gpat_a1": "Water",
-			"gpat_a2": "Ethyl oleate",
-			"gpat_a3": "Propylene glycol",
-			"gpat_a4": "Glycerol",
-			"gpat_correct_a": "2",
-			"reason": ""
+			"reason": "https://www.slideshare.net/ckoppala/bioassay-52505233"
 		}
 	]
 }
