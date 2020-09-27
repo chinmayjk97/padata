@@ -1,0 +1,191 @@
+[
+	{
+		"gpat_q": "Most widely used detector in UV spectroscopy is",
+		"opt_1": " Bolometer ",
+		"opt_2": " Photomultiplier tube ",
+		"opt_3": " Photoemissive cell ",
+		"opt_4": " Pyroelectric detector ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Correct energy value order for electronic transition in UV is",
+		"opt_1": " n → π* < n → σ* < π → π * < σ → σ* ",
+		"opt_2": " n → π* < π → π* < σ → σ* < n → σ* ",
+		"opt_3": " π → π < n → π* < n → σ* < σ → σ* ",
+		"opt_4": " n → π* < π → π* < n → σ* < σ → σ* ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "When excitation of electrons by chemicals, the phenomena is called",
+		"opt_1": " Chemiluminescence ",
+		"opt_2": " Photoluminescence ",
+		"opt_3": " Electro chemiluminescence ",
+		"opt_4": " Phosphorescence ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The value of extinction coefficient more than 100 is known as:",
+		"opt_1": " Absorbed transition ",
+		"opt_2": " Allowed transition ",
+		"opt_3": " Curved transition ",
+		"opt_4": " Bonded transition ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following is an example for atomic spectra:",
+		"opt_1": " UV spectra ",
+		"opt_2": " Colorimetry ",
+		"opt_3": " Flourimetry ",
+		"opt_4": " Flame photometry ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following light is measured in turbidimetry:",
+		"opt_1": " Scattered ",
+		"opt_2": " Reflected ",
+		"opt_3": " Dispered ",
+		"opt_4": " Transmitted ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The relationship between absorbance (A) and trasmittance(T) can be given by",
+		"opt_1": " A = 2 – log% T ",
+		"opt_2": " T = 2 – log A ",
+		"opt_3": " A = 2 + log T ",
+		"opt_4": " T = 2 + log A ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The conjugation increases the lmax by",
+		"opt_1": " 5 nm ",
+		"opt_2": " 15 nm ",
+		"opt_3": " 30 nm ",
+		"opt_4": " 10 nm ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Emission of radiation is measured by ______ method.",
+		"opt_1": " Raman spectroscopy ",
+		"opt_2": " Flame photometry ",
+		"opt_3": " Interferometer ",
+		"opt_4": " Calorimetry ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In Bragg’s equation nλ = 2d sin θ, θ is the angle between",
+		"opt_1": " The direction of the incident beam and the reflected beam ",
+		"opt_2": " The surface of the crystal and the incident fluorescent beam ",
+		"opt_3": " The direction of the incident beam and the diffracted beam ",
+		"opt_4": " Two incident beams ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "For calibration of resolution in UV __________ is used",
+		"opt_1": " Holmiun filter ",
+		"opt_2": " Polystyrene ",
+		"opt_3": " Potassium dichromate ",
+		"opt_4": " Toluene and hexane ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A mixture of the following gases can be used in flame photometry to get a temperature of 2045°C",
+		"opt_1": " Hydrogen and nitrous oxide ",
+		"opt_2": " Acetylene and oxygen ",
+		"opt_3": " Hydrogen and air ",
+		"opt_4": " Hydrogen and oxygen ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of following detectors has the most sensitivity?",
+		"opt_1": " Flame ionization detector ",
+		"opt_2": " Argon ionization detector ",
+		"opt_3": " Electron capture detector ",
+		"opt_4": " Kathetormeter ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Flame photometry cannot be used for:",
+		"opt_1": " Barium ",
+		"opt_2": " Calcium ",
+		"opt_3": " Selenium ",
+		"opt_4": " Sodium ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "RP-HPLC method contains",
+		"opt_1": " Stationary phase is polar and mobile phase is non-polar ",
+		"opt_2": " Stationary phase is non-polar and mobile phase is polar ",
+		"opt_3": " Stationary phase is non-polar and mobile Phase is non-polar ",
+		"opt_4": " Stationary phase is polar and mobile phase is polar ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Steroid separation is by paper chromatography then paper used is",
+		"opt_1": " Carboxyl paper ",
+		"opt_2": " Acetylated paper ",
+		"opt_3": " Kieselguhr paper ",
+		"opt_4": " Silica paper ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What can be used to reduce tailing in gas chromatography?",
+		"opt_1": " Hexa methyl silane ",
+		"opt_2": " Tetra methyl silane ",
+		"opt_3": " Glacial acetic acid ",
+		"opt_4": " Trimethylamine ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "IS0 9000 Series has five main type (ISO 9000, ISO9001, ISO 9002, ISO 9003, ISO 9004). Which of them are descriptive documents?",
+		"opt_1": " ISO 9000 & ISO 9002 ",
+		"opt_2": " ISO 9001 & ISO 9002 ",
+		"opt_3": " ISO 9003 & ISO 9004 ",
+		"opt_4": " ISO 9000 & ISO 9004 ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Polarogram of a solution containing an electro-reducible substance is obtained by plotting",
+		"opt_1": " Current vs Volume ",
+		"opt_2": " Current vs Potential ",
+		"opt_3": " Resistance vs Time ",
+		"opt_4": " Potential vs Volume ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of following primary standards used to standardize perchloric acid?",
+		"opt_1": " Potassium hydrogen phthalate ",
+		"opt_2": " Sodium carbonate ",
+		"opt_3": " KBr ",
+		"opt_4": " Oxalic acid ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "SnCl4 acts as Lewis acid because",
+		"opt_1": " It has six electrons and so need two electrons to complete octet ",
+		"opt_2": " It has eight electrons but can accept two more electrons ",
+		"opt_3": " It has positive charge ",
+		"opt_4": " None of the above ",
+		"correct_answer": "2",
+		"reason": ""
+	}
+]

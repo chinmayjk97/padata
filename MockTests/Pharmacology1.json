@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Identify the receptor which demonstrates the fastest onset of response, When stimulated.",
+		"opt_1": " Nuclear receptor ",
+		"opt_2": " Ionotropic receptor ",
+		"opt_3": " G-protein coupled receptor ",
+		"opt_4": " Insulin receptor ",
+		"correct_answer": "2",
+		"reason": "https://quizlet.com/14460495/pharmacology-receptor-types-flash-cards/"
+	},
+	{
+		"gpat_q": "Which one of the following types of adverse drug reactions is not believed to be dose related phenomenon ?",
+		"opt_1": " Side effects and toxic reactions ",
+		"opt_2": " Toxic reactions and hypersensitivity ",
+		"opt_3": " Side effects and hypersensitivity ",
+		"opt_4": " Hypersensitivity and idiosyncrasy ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following crosses the blood-brain barrier?",
+		"opt_1": " GABA ",
+		"opt_2": " Suxamethonium ",
+		"opt_3": " Propranolol ",
+		"opt_4": " Edrophonium ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The drug with the largest volume of distribution at steady state is",
+		"opt_1": " Propofol ",
+		"opt_2": " Midazolam ",
+		"opt_3": " Thiopentone ",
+		"opt_4": " Methohexitone ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Propofol is structurally related to -",
+		"opt_1": " Althesin ",
+		"opt_2": " Etomidate ",
+		"opt_3": " Ketamine ",
+		"opt_4": " None of the above ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Correct statements listing characteristics of a particular route of drug administration include all of the following EXCEPT:",
+		"opt_1": " Intravenous administration provides a rapid response ",
+		"opt_2": " Intramuscular administration requires a sterile technique ",
+		"opt_3": " Inhalation provides slow access to the general circulation ",
+		"opt_4": " Subcutaneous administration may cause local irritation ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Half life (t ½) doesn’t depend on: ",
+		"opt_1": " Biotransformation ",
+		"opt_2": " Time of drug absorption ",
+		"opt_3": " Concentration of a drug in plasma ",
+		"opt_4": " Rate of drug elimination ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What term is used to describe a decrease in responsiveness to a drug which develops in a few minutes? ",
+		"opt_1": " Refractoriness ",
+		"opt_2": " Cumulative effect ",
+		"opt_3": " Tolerance ",
+		"opt_4": " Tachyphylaxis ",
+		"correct_answer": "4",
+		"reason": "https://www.wikipedia.org/wiki/Tachyphylaxis"
+	},
+	{
+		"gpat_q": "Most local anesthetics can cause:",
+		"opt_1": " Depression of abnormal cardiac pacemaker activity, excitability, conduction ",
+		"opt_2": " Depression of the strength of cardiac contraction ",
+		"opt_3": " Cardiovascular collapse ",
+		"opt_4": " All of the above ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The mechanism of action of indirect-acting cholinomimetic agents is: ",
+		"opt_1": " Binding to and activation of muscarinic or nicotinic receptors ",
+		"opt_2": " Inhibition of the hydrolysis of endogenous acetylcholine ",
+		"opt_3": " Stimulation of the action of acetylcholinesterase ",
+		"opt_4": " Releasing acetylcholine from storage sites ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Antimuscarinics are used in the treatment of the following disorders EXCEPT: ",
+		"opt_1": " Motion sickness ",
+		"opt_2": " Glaucoma ",
+		"opt_3": " Hyperhidrosis ",
+		"opt_4": " Asthma ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Epinephrine decreases intracellular camp levels by acting on: ",
+		"opt_1": " α1 receptor ",
+		"opt_2": " α2 receptor ",
+		"opt_3": " beta1 receptor ",
+		"opt_4": " beta2 receptor ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following barbiturates is an ultra-short-acting drug?",
+		"opt_1": " Secobarbital ",
+		"opt_2": " Amobarbital ",
+		"opt_3": " Thiopental ",
+		"opt_4": " Phenobarbital ",
+		"correct_answer": "3",
+		"reason": "Barbiturates are generally divided into four groups based on their duration of effect: ultra‐short‐acting (e.g., methohexital, thiopental), short‐acting (e.g., pentobarbital, secobarbital), intermediate‐acting (e.g., amobarbital, butabarbital), and long‐acting (e.g., phenobarbital, primidone)."
+	},
+	{
+		"gpat_q": "Which of the following antiseizure drugs binds to an allosteric regulatory site on the GABA-BZ receptor, increases the duration of the Cl- channels openings: ",
+		"opt_1": " Diazepam ",
+		"opt_2": " Valproate ",
+		"opt_3": " Phenobarbital ",
+		"opt_4": " Topiramate ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Treatment with selegilin postpones the need for levodopa for 3-9 months and may retard the progression of Parkinson′s disease",
+		"opt_1": " True ",
+		"opt_2": " False ",
+		"opt_3": " ",
+		"opt_4": " ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The combination of disulfiram and ethanol leads to accumulation of: ",
+		"opt_1": " Formaldehyde ",
+		"opt_2": " Acetate ",
+		"opt_3": " Formic acid ",
+		"opt_4": " Acetaldehyde ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The diagnostic triad of opioid overdosage is:",
+		"opt_1": " Mydriasis, coma and hyperventilation ",
+		"opt_2": " Coma, depressed respiration and miosis ",
+		"opt_3": " Mydriasis, chills and abdominal cramps ",
+		"opt_4": " Miosis, tremor and vomiting ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Correct the statements concerning ketorolac include all of the following EXCEPT:",
+		"opt_1": " It inhibits COX ",
+		"opt_2": " It is as effective as morphine for a short-term relief from moderate to severe pain ",
+		"opt_3": " It has a high potential for physical dependence and abuse ",
+		"opt_4": " It does not produce respiratory depression ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Indicate the antipsychotic drug having a muscarinic-cholinergic blocking activity: ",
+		"opt_1": " Chlorpromazine ",
+		"opt_2": " Clorprothixene ",
+		"opt_3": " Risperidone ",
+		"opt_4": " Haloperidol ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The principal mechanism of action of antidepressant agents is: ",
+		"opt_1": " Stabilization of dopamine and beta-adrenergic receptors ",
+		"opt_2": " Inhibition of the storage of serotonin and epinephrine in the vesicles of presynaptic nerve endings ",
+		"opt_3": " Blocking epinephrine or serotonin reuptake pumps ",
+		"opt_4": " Stimulation of alfa2-norepinephrine receptors ",
+		"correct_answer": "3",
+		"reason": ""
+	}
+]

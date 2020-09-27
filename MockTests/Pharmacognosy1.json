@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Halphen's test is used for",
+		"opt_1": " Detection of cottonseed oil as an adulterant ",
+		"opt_2": " Detection of artificial invert sugar ",
+		"opt_3": " Saponins ",
+		"opt_4": " Tannins ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following causes fruit ripening?",
+		"opt_1": " Auxin ",
+		"opt_2": " Cytokinin ",
+		"opt_3": " Gibberellins ",
+		"opt_4": " Ethylene ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Closed Collateral vascular bundles are characteristics of",
+		"opt_1": " Dicot plants ",
+		"opt_2": " Monocot plants ",
+		"opt_3": " Weeds ",
+		"opt_4": " None of these ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one is not a intermediate in Shikimik acid pathway",
+		"opt_1": " Erythrose 4 phosphate ",
+		"opt_2": " Chrosmic acid ",
+		"opt_3": " Shikimic acid ",
+		"opt_4": " Prephenic acid ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Latex vessels are present in phloem of which drug?",
+		"opt_1": " Lobelia ",
+		"opt_2": " Datura ",
+		"opt_3": " Sarpagandha ",
+		"opt_4": " Gokhru ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "T-shaped trichomes are present in",
+		"opt_1": " Varbascum thapus ",
+		"opt_2": " Belladonna ",
+		"opt_3": " Tea ",
+		"opt_4": " Pyrethrum ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Stratified cork is characteristic of",
+		"opt_1": " Ergot ",
+		"opt_2": " Senna ",
+		"opt_3": " Cinchona ",
+		"opt_4": " Rauwolfia ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Anisocytic stomata are present in",
+		"opt_1": " Digitalis ",
+		"opt_2": " Senna ",
+		"opt_3": " Vasaka ",
+		"opt_4": " Belladonna ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following is not from Liliaceae? ",
+		"opt_1": " Aloe ",
+		"opt_2": " Colchicum ",
+		"opt_3": " Scillia ",
+		"opt_4": " Kurchi ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The shape of Arjuna bark is",
+		"opt_1": " Flat ",
+		"opt_2": " Curved ",
+		"opt_3": " Recurved ",
+		"opt_4": " Quill ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Wolfsbain root is",
+		"opt_1": " Liquorice ",
+		"opt_2": " Ipeacac ",
+		"opt_3": " Aconite ",
+		"opt_4": " Rhubarb ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In Klung's isobarbaloin test, Curacao aloes shows ______ colour",
+		"opt_1": " Yellow ",
+		"opt_2": " Blue ",
+		"opt_3": " Wine red ",
+		"opt_4": " Green ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Bufadienolides are present in",
+		"opt_1": " Squill ",
+		"opt_2": " Strophanthus ",
+		"opt_3": " Thevetia ",
+		"opt_4": " Arjuna ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Raymond's test is used for identification of",
+		"opt_1": " Cardiac glycoside ",
+		"opt_2": " Alkaloids ",
+		"opt_3": " Deoxy sugar ",
+		"opt_4": " All of the above ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which fruit shows presence of numerous vittae? ",
+		"opt_1": " Coriander ",
+		"opt_2": " Caraway ",
+		"opt_3": " Anise ",
+		"opt_4": " Dill ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Nearly 70% linalool is present in volatile oil of",
+		"opt_1": " Fennel ",
+		"opt_2": " Coriander ",
+		"opt_3": " Cinnamon ",
+		"opt_4": " Eucalyptus ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Triterpene class of terpenoids contains ____ number of isoprene units",
+		"opt_1": " 9 ",
+		"opt_2": " 6 ",
+		"opt_3": " 3 ",
+		"opt_4": " 2 ",
+		"correct_answer": "2",
+		"reason": "https://en.m.wikipedia.org/wiki/Triterpene"
+	},
+	{
+		"gpat_q": "Spearmint contains ",
+		"opt_1": " Carvone ",
+		"opt_2": " Eugenol ",
+		"opt_3": " Cresol ",
+		"opt_4": " Guiacol ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Barium Chloride is used for identification of",
+		"opt_1": " Guar gum ",
+		"opt_2": " Agar ",
+		"opt_3": " Acacia ",
+		"opt_4": " Dragon ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Tenants do not respond to",
+		"opt_1": " Goldbeater's skin test ",
+		"opt_2": " Phenazone test ",
+		"opt_3": " Matchstick test ",
+		"opt_4": " Borntrager's test ",
+		"correct_answer": "4",
+		"reason": ""
+	}
+]
