@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Ratio of dry glycerin into dry gelatin for hard gelatin capsules is",
+		"opt_1": " 0.6 : 1 ",
+		"opt_2": " 0.4 : 1 ",
+		"opt_3": " 0.8 : 1 ",
+		"opt_4": " 1 : 0.8 ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Kelvin equation is related to the",
+		"opt_1": " Particle size analysis ",
+		"opt_2": " Pore size analysis ",
+		"opt_3": " Surface area analysis ",
+		"opt_4": " Sedimentation ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "_________ is a zwitter ionic surfactant ",
+		"opt_1": " SLS ",
+		"opt_2": " Lecithin ",
+		"opt_3": " Tween ",
+		"opt_4": " Benzalkonium chloride ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A surfactant X forming poor or no dispersion in water at room temperature will be having an HLB value ______",
+		"opt_1": " Less than 5 ",
+		"opt_2": " 15 ",
+		"opt_3": " 7-10 ",
+		"opt_4": " 12-15 ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The slope of rheogram of a plastic flow is called",
+		"opt_1": " Mobility ",
+		"opt_2": " Fluidity ",
+		"opt_3": " Yield value ",
+		"opt_4": " Yield stress ",
+		"correct_answer": "1",
+		"reason": "Fluidity term is used for slope of Newtonian fluids while Mobility in case of Non Newtonian fluids"
+	},
+	{
+		"gpat_q": "Bulkiness _________ with an decrease in particle size. ",
+		"opt_1": " Increases ",
+		"opt_2": " Decreases ",
+		"opt_3": " Can either increase or decrease ",
+		"opt_4": " None of the above ",
+		"correct_answer": "1",
+		"reason": "Bulkiness is inverse of bulk density. As particle size decreases bulk volume decreases and bulkiness increases. "
+	},
+	{
+		"gpat_q": "Pseudoplastic flow is typically exhibited by ",
+		"opt_1": " Emulsions ",
+		"opt_2": " Polymer solutions ",
+		"opt_3": " Suspension ",
+		"opt_4": " Ointments ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Chemically Veegum is",
+		"opt_1": " Magnesium ",
+		"opt_2": " Aluminium ",
+		"opt_3": " Magnesium aluminosilicate ",
+		"opt_4": " Calcium oxide ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The 000 size capsules can fill volume of",
+		"opt_1": " 0.13 ml ",
+		"opt_2": " 0.95 ml ",
+		"opt_3": " 1.36 ml ",
+		"opt_4": " 0.27 ml ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following test is not official in IP ?",
+		"opt_1": " Hardness ",
+		"opt_2": " Friability ",
+		"opt_3": " Disintegration ",
+		"opt_4": " Content Uniformity test ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Cold place as per IP indicates storage at",
+		"opt_1": " 2 - 8 °C ",
+		"opt_2": " 8 - 25 °C ",
+		"opt_3": " 0 °C ",
+		"opt_4": " 25 °C ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Type B gelatin is having isoelectric point in region",
+		"opt_1": " 2-3 ",
+		"opt_2": " 4-5 ",
+		"opt_3": " 6-7 ",
+		"opt_4": " 8-9 ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Diclofenac tablet coated with cellulose Acetate phthalate has been administered to a patient. Where do you expect the drug to be released? ",
+		"opt_1": " Stomach ",
+		"opt_2": " Oral Cavity ",
+		"opt_3": " Small Intestine ",
+		"opt_4": " Liver ",
+		"correct_answer": "3",
+		"reason": "CAP is a enteric coating substance and hence it remains protected in gastric environment and is released in intestine. "
+	},
+	{
+		"gpat_q": "The sweetening agent commonly used in chewable tablet formula is",
+		"opt_1": " Sucrose ",
+		"opt_2": " Cyclamate sodium ",
+		"opt_3": " Saccharine sodium ",
+		"opt_4": " Mannitol ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Lactose is the most widely used diluent in the tablet formulation. However it is not used in one of the following",
+		"opt_1": " Pyrizinamide ",
+		"opt_2": " Ibuprofen ",
+		"opt_3": " Sulfacetamide ",
+		"opt_4": " Isoniazide ",
+		"correct_answer": "4",
+		"reason": "Millard reaction due to amine group of Isoniazide"
+	},
+	{
+		"gpat_q": "The following are the oily solvents used for parenterals except ",
+		"opt_1": " Cotton seed oil ",
+		"opt_2": " Sesame oil ",
+		"opt_3": " Ethyl oleate ",
+		"opt_4": " Castor oil ",
+		"correct_answer": "4",
+		"reason": "Castor oil is used for topical use"
+	},
+	{
+		"gpat_q": "Which is correct for water for injection? ",
+		"opt_1": " Total solid 20ppm, pyrogen free ",
+		"opt_2": " Total solid 10ppm, pyrogen free ",
+		"opt_3": " Total solid 10 ppm, sterile and pyrogen free ",
+		"opt_4": " Total solid 20ppm, sterile ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "DOP test is performed for measurement of efficiency of HEPA filter, ANEMOMETER is used with it for which reason? ",
+		"opt_1": " To measure particle size ",
+		"opt_2": " To measure velocity of air ",
+		"opt_3": " To measure pore size of HEPA filter ",
+		"opt_4": " None ",
+		"correct_answer": "2",
+		"reason": "Anemometer is used for measuring air velocity"
+	},
+	{
+		"gpat_q": "Options for sterilization include EXCEPT",
+		"opt_1": " Ethylene oxide ",
+		"opt_2": " Gamma radiation ",
+		"opt_3": " 160 °C dry heat for 30mins ",
+		"opt_4": " Low temperature steam of 73 °C for 20mins ",
+		"correct_answer": "3",
+		"reason": "For dry heat sterilization 180 °C for 2hrs is required"
+	},
+	{
+		"gpat_q": "Sterilization is removal of",
+		"opt_1": " All microorganisms ",
+		"opt_2": " All spores ",
+		"opt_3": " All living microorganisms ",
+		"opt_4": " All bacteria ",
+		"correct_answer": "3",
+		"reason": ""
+	}
+]

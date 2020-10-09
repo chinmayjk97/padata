@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "A diagnostic agent used primarily for visualization of the lymphatic system is",
+		"opt_1": " Isosulfan blue ",
+		"opt_2": " Radioactive iodine ",
+		"opt_3": " Methyl red ",
+		"opt_4": " Barium Sulfate ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The amino acid that is an important precursor of haemoglobin is",
+		"opt_1": " Alanine ",
+		"opt_2": " Glycine ",
+		"opt_3": " Proline ",
+		"opt_4": " Leucine ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Most normal values in urinalysis are based on",
+		"opt_1": " mg or gm per 100ml ",
+		"opt_2": " gm/l ",
+		"opt_3": " mg% ",
+		"opt_4": " gm/24-h excretion ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Liposomes are",
+		"opt_1": " multi-layered vesicles of phospholipids ",
+		"opt_2": " uni-layered vesicles of phospholipids ",
+		"opt_3": " Both ",
+		"opt_4": " None ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "When choline of lecithin is replaced by ethanolamine, the product is ",
+		"opt_1": " Sphingomyelin ",
+		"opt_2": " Cephalin ",
+		"opt_3": " Plasmalogens ",
+		"opt_4": " Lysolecithin ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The metabolic function of riboflavin involves which one of the following 'multilayered vesicles of phospholipids' ?",
+		"opt_1": " FMN and FAD ",
+		"opt_2": " NADP and NADPH ",
+		"opt_3": " AMP and ATP ",
+		"opt_4": " Retin and Retinine ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The vitamin which has deodrant property is",
+		"opt_1": " Vitamin A ",
+		"opt_2": " Vitamin C ",
+		"opt_3": " Vitamin D ",
+		"opt_4": " Vitamin E ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Diversity in antibody molecules is brought about by",
+		"opt_1": " Post translational modifications ",
+		"opt_2": " Gene rearrangements ",
+		"opt_3": " Usage of special genetic codes ",
+		"opt_4": " Muliple mutations in the polypeptide ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "DNA amplification by the PCR uses",
+		"opt_1": " Thermus aquaticus DNA polymerase ",
+		"opt_2": " DNA topoisomerase ",
+		"opt_3": " RNA polymerase ",
+		"opt_4": " DNA helicase ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Polyneuritis is a disease of which Vitamin deficiency",
+		"opt_1": " Thiamine ",
+		"opt_2": " Ascorbic acid ",
+		"opt_3": " Pyridoxine ",
+		"opt_4": " Nicotinamide ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "One of the following is confirmed by DNA Dignosis test is",
+		"opt_1": " Hyperuricemia ",
+		"opt_2": " Cystic Fibrosis ",
+		"opt_3": " Acute Pancreatis ",
+		"opt_4": " Hyperlipidemia ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Caprylic acid chemically is",
+		"opt_1": " CH3[CH2]4COOH ",
+		"opt_2": " CH3[CH2]6COOH ",
+		"opt_3": " CH3[CH2]8COOH ",
+		"opt_4": " CH3[CH2]10COOH ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one is described as “vitamin in search of disease” ?",
+		"opt_1": " Vitamin A ",
+		"opt_2": " Vitamin C ",
+		"opt_3": " Vitamin E ",
+		"opt_4": " Vitamin H ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following is the sulfur-containing compound involved in decarboxylation reaction?",
+		"opt_1": " Choline ",
+		"opt_2": " Lipoic acid ",
+		"opt_3": " Inositol ",
+		"opt_4": " Niacin ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In Wilson’s disease serum level of which enzyme decreases?",
+		"opt_1": " Amylase ",
+		"opt_2": " Ceruloplasmin ",
+		"opt_3": " Glucose-6-phosphate dehydrogenase ",
+		"opt_4": " Creatine phosphokinase ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In visual cycle, iodopsin gives which pigment?",
+		"opt_1": " Red ",
+		"opt_2": " Green ",
+		"opt_3": " Yellow ",
+		"opt_4": " Blue ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In muscular dystrophy serum level of which enzyme is elevated?",
+		"opt_1": " Acid phosphatase ",
+		"opt_2": " Creatinine phosphokinase ",
+		"opt_3": " Amylase ",
+		"opt_4": " Aldolase ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "How many base pairs are present in each turn of β-form of DNA helix?",
+		"opt_1": " 9 ",
+		"opt_2": " 8 ",
+		"opt_3": " 12 ",
+		"opt_4": " 10 ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Nitric oxide and urea have in common __________ as an immediate precursor amino acid.",
+		"opt_1": " Aspartate ",
+		"opt_2": " Arginine ",
+		"opt_3": " Glutamate ",
+		"opt_4": " Phenylalanine ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What is the starting material of biotin?",
+		"opt_1": " Bisbenzyl succinic acid ",
+		"opt_2": " Ribulose ",
+		"opt_3": " Beta-ionone and methyl vinyl lactone ",
+		"opt_4": " Beta -ionone and methyl lactone ",
+		"correct_answer": "1",
+		"reason": ""
+	}
+]

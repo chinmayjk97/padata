@@ -1,0 +1,191 @@
+[
+	{
+		"gpat_q": "Sulfonamides are metabolized by humans principally by ",
+		"opt_1": " acetylation ",
+		"opt_2": " deamination ",
+		"opt_3": " conjugation ",
+		"opt_4": " methylation ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In which drug is the pharmacological activity associated with a specific optical isomer?",
+		"opt_1": " aspirin ",
+		"opt_2": " adrenaline ",
+		"opt_3": " caffeine ",
+		"opt_4": " acetylcholine ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The functional group which contributes to the instability of aspirin is ",
+		"opt_1": " alcohol ",
+		"opt_2": " ketone ",
+		"opt_3": " ester ",
+		"opt_4": " ether ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following drugs would NOT be expected to show appreciable absorbance in the ultraviolet region of the electromagnetic spectrum ? ",
+		"opt_1": " glucose ",
+		"opt_2": " tetracycline ",
+		"opt_3": " folic acid ",
+		"opt_4": " prochlorperazine ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Many drugs are chiral. In synthesis of chiral drug molecule in symmetric environment",
+		"opt_1": " Always one enantiomer obtained ",
+		"opt_2": " Always Both enantiomers are obtained in equal amounts ",
+		"opt_3": " Always Both enantiomers are obtained in unequal amounts ",
+		"opt_4": " None of the above ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one of the following is a microsomal enzyme inducer ?",
+		"opt_1": " Indomethacin ",
+		"opt_2": " Clofibrate ",
+		"opt_3": " Tolbutamide ",
+		"opt_4": " Glutethimide ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Clavulanic acid has a beta-lactum ring fused to",
+		"opt_1": " Thienyl system ",
+		"opt_2": " Thiadiazole system ",
+		"opt_3": " Thiazolidone system ",
+		"opt_4": " Oxazolidine system ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Demeclocycline differs from Chlotetracycline only by ",
+		"opt_1": " Absense of -CH3 Group on carbon 6 ",
+		"opt_2": " Presense of -OH Group on carbon 6 ",
+		"opt_3": " Absense of -N(CH3)2 Group on carbon 4 ",
+		"opt_4": " Absense of -OH Group on carbon 3 ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "One of the following drug interfers with the cellular metabolism, especially by  synthesis of Mycolic acid. Idenify.",
+		"opt_1": " Chloramphenicol ",
+		"opt_2": " Pyrazinamide ",
+		"opt_3": " Isonicotinic acid hydrazide ",
+		"opt_4": " Nicotinamide ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Chemical name of amoxicillin is ",
+		"opt_1": " 6- [D-(-)α-amino p-hydroxy phenyl acetamido] penicillanic acid ",
+		"opt_2": " 4- [D-(-)α-amino p-hydroxy phenyl acetamido] penicillanic acid ",
+		"opt_3": " 4- [D-(-)α-amino m-hydroxy phenyl acetamido] penicillanic acid ",
+		"opt_4": " 6- [D-(-)α-amino o-hydroxy phenyl acetamido] penicillanic acid ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The active metabolite of anti-cancer agent cyclophosphamide is ",
+		"opt_1": " N-Hydroxy cyclophosphamide ",
+		"opt_2": " N-Methyl cyclophosphamide ",
+		"opt_3": " 4-Hydroxy cyclophosphamide ",
+		"opt_4": " N-Acetyl cyclophosphamide ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Aminophyliine  solutions on exposure to air may develop",
+		"opt_1": " Crystals of theophylline. ",
+		"opt_2": " Precipitate of aminophyliine ",
+		"opt_3": " Precipitate of ethylenediamine ",
+		"opt_4": " Straw Colour ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Starting material for synthesis of L-Thyroxine is ",
+		"opt_1": " 2-amino-5-chloro acetophenone ",
+		"opt_2": " 2-amino-5-chloro benzophenone ",
+		"opt_3": " Phenyl alanine ",
+		"opt_4": " L-Tyrosine ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Peripheral neurotransmitter is",
+		"opt_1": " Histamine ",
+		"opt_2": " Noradrenaline ",
+		"opt_3": " Hydroxytryptamine ",
+		"opt_4": " Prostaglandin ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Heterocyclic rings present in pilocarpine are",
+		"opt_1": " Imidazole and Quinoline ",
+		"opt_2": " Imidazole and Thiazole ",
+		"opt_3": " Quinoline and Phenanthrene ",
+		"opt_4": " Imidazole and Dihydrofuran ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A metabolite of SPIRONOLACTONE is",
+		"opt_1": " Aldosterone ",
+		"opt_2": " Canrenone ",
+		"opt_3": " Corticosterone ",
+		"opt_4": " Pregnenolone ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The activity of one of the following drug is dependent on Phenyl-N-alkyl piperidine moiety",
+		"opt_1": " Meperidine ",
+		"opt_2": " Imipramine ",
+		"opt_3": " Diazepam ",
+		"opt_4": " Chlorpromazine ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Metabolism of phenacetin occurs by",
+		"opt_1": " N-dealkylation ",
+		"opt_2": " O-dealkylation ",
+		"opt_3": " Hydroxylation ",
+		"opt_4": " None of above ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of following drugs causes lithium and digoxin toxicity?",
+		"opt_1": " Nimesulide ",
+		"opt_2": " Diclofenac ",
+		"opt_3": " Indomethacin ",
+		"opt_4": " Rofecoxib ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of following is a natural vasodilator?",
+		"opt_1": " Bradykinin ",
+		"opt_2": " Adenosine ",
+		"opt_3": " Both ",
+		"opt_4": " None ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Paracetamol undergoes metabolism by",
+		"opt_1": " N-hydroxylation ",
+		"opt_2": " Deamination ",
+		"opt_3": " O-dealkylation ",
+		"opt_4": " Oxidative deamination ",
+		"correct_answer": "2",
+		"reason": ""
+	}
+]

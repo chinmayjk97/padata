@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "In dry heat sterilization object is heated at",
+		"opt_1": " 160 degree for 3 hours ",
+		"opt_2": " 180 degree for 2 hours ",
+		"opt_3": " 180 degrees for 1 hour ",
+		"opt_4": " 160 degree for 2 hours ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Antiglobulin or Coomb's test is used for",
+		"opt_1": " Detection of non agglutinating antibodies ",
+		"opt_2": " Detection of agglutinating antibodies ",
+		"opt_3": " Detection of all types of antibodies ",
+		"opt_4": " Detection of mycoplasma pneumonia ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Indian Ink method is used for",
+		"opt_1": " Flagella staining ",
+		"opt_2": " Capsule staining ",
+		"opt_3": " Gram staining ",
+		"opt_4": " Spore staining ",
+		"correct_answer": "2",
+		"reason": "https://en.wikipedia.org/wiki/India_ink#Non-art_use"
+	},
+	{
+		"gpat_q": "Which antibody is responsible for the host to protect from bacteria and viruses and provide passive immunity to foetus? ",
+		"opt_1": " IgM ",
+		"opt_2": " IgA ",
+		"opt_3": " IgG ",
+		"opt_4": " IgD ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following antibody is a pentamer? ",
+		"opt_1": " IgG ",
+		"opt_2": " IgM ",
+		"opt_3": " IgA ",
+		"opt_4": " IgD ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "During autoclaving of dextrose solution, straw color is observed. It is due to presence of substance called",
+		"opt_1": " Furfural ",
+		"opt_2": " 5 hydroxymethylfurfural ",
+		"opt_3": " 5 hydroxyfurfural ",
+		"opt_4": " 5 methylfurfural ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Virus mediated transfer of host DNA from one cell to another is known as?",
+		"opt_1": " Transduction ",
+		"opt_2": " Transformation ",
+		"opt_3": " Transcription ",
+		"opt_4": " Integration ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following I used to detect antibodies except",
+		"opt_1": " Complement fixation ",
+		"opt_2": " Haemagglutination inhibition ",
+		"opt_3": " Coagulase test ",
+		"opt_4": " Indirect immunofluorescence ",
+		"correct_answer": "3",
+		"reason": "https://microbeonline.com/diagnostic-tests-biochemical-tests-coagulase-test/"
+	},
+	{
+		"gpat_q": "E coli is used in assay of ",
+		"opt_1": " Carbencillin ",
+		"opt_2": " Chloramphenicol ",
+		"opt_3": " Gentamycin ",
+		"opt_4": " Nystatin ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Brown's tube is  most commonly used in chemical indicators for",
+		"opt_1": " Ethylene oxide sterilization ",
+		"opt_2": " Radiation sterilization ",
+		"opt_3": " Filtration sterilization ",
+		"opt_4": " Heat process sterilization ",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A common organism that causes meningitis belongs to the genus",
+		"opt_1": " Candida ",
+		"opt_2": " Neisseria ",
+		"opt_3": " Pseudomonas ",
+		"opt_4": " Clostridium ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Clinical jaundice, typified by the yellowing of the tissues is associated with elevated levels of",
+		"opt_1": " Serum lysozyme ",
+		"opt_2": " Serum bilirubin ",
+		"opt_3": " Serum creatinine ",
+		"opt_4": " Serum Gamma-glutamyl transferase ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Creatinine clearance is used as a measurement for",
+		"opt_1": " Glomerular filtrate rate ",
+		"opt_2": " Renal excretion rate ",
+		"opt_3": " Drug metabolism rate ",
+		"opt_4": " Passive renal excretion ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Schick test is performed to ascertain susceptibility to",
+		"opt_1": " Measles ",
+		"opt_2": " Diphtheria ",
+		"opt_3": " Polio ",
+		"opt_4": " Typhoid ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What is SHAM test? ",
+		"opt_1": " Pyrogen ",
+		"opt_2": " Suitability testing of animals for ",
+		"opt_3": " Both a and b ",
+		"opt_4": " None of the above ",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Chemotaxis is a phenomenon that refers to",
+		"opt_1": " Directed Movement in response to a chemical stimulus ",
+		"opt_2": " Taxonomic classification of biochemicals ",
+		"opt_3": " Large influx of a chemical molecule within bacterial cells ",
+		"opt_4": " Adherence of bacterial protein to the host cell ",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "For thermophilic microorganisms, the minimum growth temperature required is",
+		"opt_1": " 20 degree Celsius ",
+		"opt_2": " 37 degrees Celsius ",
+		"opt_3": " 45 degree Celsius ",
+		"opt_4": " 65 degree Celsius ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Temperature used for sterilization of vaccines is",
+		"opt_1": " 71 - 72°C ",
+		"opt_2": " 61-62°C ",
+		"opt_3": " 55-60°C ",
+		"opt_4": " 98-100°C ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Tuberculin bacteria can be detected by",
+		"opt_1": " Gram staining ",
+		"opt_2": " Negative staining ",
+		"opt_3": " Ziehl-Neelson staining ",
+		"opt_4": " ELISA ",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following Gram Negative bacteria are known to cause corneal ulcer except",
+		"opt_1": " Pseudomonas aeruginosa ",
+		"opt_2": " Moraxella lacunata ",
+		"opt_3": " Bacillus brevis ",
+		"opt_4": " Klebsiella pneumoniae ",
+		"correct_answer": "3",
+		"reason": ""
+	}
+]
