@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Which of the following is a enzyme inducer?",
+		"opt_1": "Indomethacin",
+		"opt_2": "Clofibrate",
+		"opt_3": "Tolbutamide",
+		"opt_4": "Gluthemide",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Clavulanic Acid has a beta lactam ring that is fused to",
+		"opt_1": "thienyl system",
+		"opt_2": "Thiadiazole",
+		"opt_3": "Thiazolidine",
+		"opt_4": "Oxazolidine",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Benzathine penicillin is a mixture of ",
+		"opt_1": "Amoxicillin + N,N-Dibenzyl ethylene diamine",
+		"opt_2": "Benzyl Penicillin  N,N-Dibenzyl ethylene diamine",
+		"opt_3": "Amoxicillin + Ethylenediamine",
+		"opt_4": "Cloxacillin + Ethylenediamine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The essential structural unit for activity of mebendazole is",
+		"opt_1": "Imidazole",
+		"opt_2": "benzimidazole",
+		"opt_3": "Methylcarbamate",
+		"opt_4": "Benzoyl group",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Sulfasalazine is a prodrug that is activated by ",
+		"opt_1": "Amylase",
+		"opt_2": "Azoreductase",
+		"opt_3": "Cholinesterase",
+		"opt_4": "Glucuronyl transferase",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "An anti neoplastic agent having a pteridine ring residue and acts by inhibiting the synthesis of folate",
+		"opt_1": "Trimethoprim",
+		"opt_2": "Methotrexate",
+		"opt_3": "Folic acid",
+		"opt_4": "Mercaptopurine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Heterocyclic Ring present in Pilocarpus is",
+		"opt_1": "Imidazole & Quinoline",
+		"opt_2": "Imidazole & Thiazole",
+		"opt_3": "Quinoline & Phenanthrene",
+		"opt_4": "Imidazole & Dihydrofuran",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "(-)Hyoscyamine is ______",
+		"opt_1": "15-20 times more active as mydriatic than (+)hyoscyamine",
+		"opt_2": "Inactive as mydriatic",
+		"opt_3": "100 times more active as mydriatic than (+)hyoscyamine",
+		"opt_4": "100 times less active as mydriatic than (+)hyoscyamine",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "One of the following drugs has  1,4-dihydropyridine structure , a tertiary amino group in the side chain and CA+2 channel antagonist action. Identify",
+		"opt_1": "Nifedipine",
+		"opt_2": "Nicardipine",
+		"opt_3": "Captopril",
+		"opt_4": "verapamil",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In the general formula R-X-C-C-N ; X=Nitrogen ,Oxygen or carbon ; R=different groups. IDENTIFY",
+		"opt_1": "Analgesics",
+		"opt_2": "Anti histaminics",
+		"opt_3": "Antitussives",
+		"opt_4": "Antipyretics",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Sedative action of barbiturates is due to substituents at C-5. It is due to ",
+		"opt_1": "Electronic withdrawing effect",
+		"opt_2": "High lipophilicity",
+		"opt_3": "Steric effect",
+		"opt_4": "Metal chelation",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Injection of insulin I.P should be kept at ____ pH",
+		"opt_1": "6.5",
+		"opt_2": "8.5",
+		"opt_3": "7.5",
+		"opt_4": "2.5",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The product of a Michael reaction of a ketone enolate to alpha, b-unsaturated ketone is ______  and addition reaction occurs in a/an ",
+		"opt_1": "1,5- diketone; 1,4-fashion",
+		"opt_2": "α-substituted acetate; 1,2 fashion",
+		"opt_3": "β- hydroxy keto; 1,3 – fashion",
+		"opt_4": "α, β-keto ester; 1,5 –fashion",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which reaction intermediate formed in Reimer-Tiemann reaction that Reacts with phenol to give the ortho-formylated product ",
+		"opt_1": "Carbene",
+		"opt_2": "Carbocation",
+		"opt_3": "Carbanion",
+		"opt_4": "Free radical",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Identify mismatch pair of element and its oxidation number ",
+		"opt_1": "Oxygen in H2O2; -2",
+		"opt_2": "Bromine in Br2; 0",
+		"opt_3": "Sodium in NaCl; +1",
+		"opt_4": "Sulfur in SO3-2; +4",
+		"correct_answer": "1",
+		"reason": "-1 is oxidation number of oxygen in hydrogen peroxide"
+	},
+	{
+		"gpat_q": "The reaction of Grignard reagent with aldehydes and ketones gives alcohols, this is _________ ",
+		"opt_1": "Nucleophilic addition reaction",
+		"opt_2": "Nucleophilic substitution reaction",
+		"opt_3": "Electrophilic substitution reaction",
+		"opt_4": "Electrophilic addition reaction",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Theophylline has an antagonistic interaction with?",
+		"opt_1": "Histamine receptors",
+		"opt_2": "Bradykinin receptors",
+		"opt_3": "Adenosine receptors",
+		"opt_4": "Imidazoline receptors",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "2, 4, 6 trioxo hexahydropyrimidin is IUPAC name of?",
+		"opt_1": "Barbitone",
+		"opt_2": "Barbituric acid",
+		"opt_3": "Methabarbitone",
+		"opt_4": "Pyridoxine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Promazine differ structurally from chlorpromazine in lacking substitution Cl at position ___",
+		"opt_1": "1",
+		"opt_2": "2",
+		"opt_3": "3",
+		"opt_4": "7",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which antihypertensive drug has similar structure as that of diuretic agent chlorothiazide?",
+		"opt_1": "Minoxidil",
+		"opt_2": "Diazoxide",
+		"opt_3": "Guanethidine",
+		"opt_4": "Propanol",
+		"correct_answer": "2",
+		"reason": "diazoxide and chlorothiazide has similar structures"
+	}
+]

@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Insulin can be described perfectly by ",
+		"opt_1": "A glycoprotein with a molecular weight of 6000",
+		"opt_2": "A small protein with a molecular weight of 5808 having disulphide linkage",
+		"opt_3": "A fructo oligosaccharide",
+		"opt_4": "A catecholamine",
+		"correct_answer": "2",
+		"reason": "insulin hormone consist of 21 amino acid two chains, chain A(21AA), and chain B(30 AA) connected with disulfide bond with molecular weight 5805 delton, insulin receptors are glycoprotein in nature"
+	},
+	{
+		"gpat_q": "To understand a drug receptor action it is necessary to quantify the relation between ____ ",
+		"opt_1": "Drug and its toxicity",
+		"opt_2": "Drug and its absorption",
+		"opt_3": "Drug and its biological effect",
+		"opt_4": "Drug and its  intermediate product",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following drug will aggravate bronchial asthma? ",
+		"opt_1": "Propranolol",
+		"opt_2": "Amphetamine",
+		"opt_3": "Morphine",
+		"opt_4": "None of the above",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A person taking nitroglycerine consumes alcohol. The drug interacts and the effect seen is",
+		"opt_1": "Respiratory depression",
+		"opt_2": "Hypertension",
+		"opt_3": "Drowsiness",
+		"opt_4": "Hypotension and collapse",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The polyenes antibiotics are most likely to inhibit ______ in bacteria",
+		"opt_1": "DNA synthesis",
+		"opt_2": "Binding to prokaryotic ribosomes",
+		"opt_3": "Synthesis of ergosterol",
+		"opt_4": "Cross linking between glucan and chitin",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following drug is active against MAC ?",
+		"opt_1": "Isoniazid",
+		"opt_2": "Rifabutin",
+		"opt_3": "Cyloserine",
+		"opt_4": "Capreomycin",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The drugs mefloquine and proguanil are effectively used in ",
+		"opt_1": "Protozoals",
+		"opt_2": "Mycoplasms",
+		"opt_3": "Dermatophytes",
+		"opt_4": "Spirochaetes",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following drug is used as an ophthalmic solution in herpes keratitis ?",
+		"opt_1": "Zalcitabine",
+		"opt_2": "Trifluridine",
+		"opt_3": "Ritonavir",
+		"opt_4": "Stavudine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "HIV infection can be clinically controlled by",
+		"opt_1": "Cytarabine",
+		"opt_2": "Acyclovir",
+		"opt_3": "Zidovudine",
+		"opt_4": "Amantadine",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Sulphamethoxazole is a ",
+		"opt_1": "Short acting drug",
+		"opt_2": "Long acting",
+		"opt_3": "Mixed acting",
+		"opt_4": "Short and intermediate acting drug",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Housefly can transmit disease by ",
+		"opt_1": "Mechanically",
+		"opt_2": "By participating in life cycle",
+		"opt_3": "Through its larva",
+		"opt_4": "Through its eggs",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which from the options is causative agent for mumps ?",
+		"opt_1": "HIV",
+		"opt_2": "Paramyxovirus",
+		"opt_3": "Polio virus",
+		"opt_4": "Hepatitis virus",
+		"correct_answer": "2",
+		"reason": "Paramyxovirus parotitis which is RNA virus"
+	},
+	{
+		"gpat_q": "One of the following is known as pellagra protecting factor ?",
+		"opt_1": "Riboflavin",
+		"opt_2": "Pentothenic acid",
+		"opt_3": "Niacin",
+		"opt_4": "Pyridoxine",
+		"correct_answer": "3",
+		"reason": "Deficiency in metabolic pathway of niacin causes pellagra"
+	},
+	{
+		"gpat_q": "Mazzoti reaction is caused by ",
+		"opt_1": "Albendazole",
+		"opt_2": "Praziquantel",
+		"opt_3": "Diethycarbamazine Citrate",
+		"opt_4": "All of the above",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In SV-arrythymia Digoxin when supplemented with_______is dangerous",
+		"opt_1": "Calcium",
+		"opt_2": "Qunidine",
+		"opt_3": "Procaine",
+		"opt_4": "Xylocaine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Terazosin an anti-hypertensive drug acts by ",
+		"opt_1": "Blocking beta adrenoreceptor",
+		"opt_2": "Blocking alpha adrenoreceptor",
+		"opt_3": "Inhibition of ACE",
+		"opt_4": "Diuretic action",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which antiviral agent in not a nucleoside analog ?",
+		"opt_1": "Moroxydine",
+		"opt_2": "Vidarabine",
+		"opt_3": "Cytarabine",
+		"opt_4": "Idoxuridine",
+		"correct_answer": "1",
+		"reason": "Moroxydine is non-nucleoside analogue"
+	},
+	{
+		"gpat_q": "Which amongst the option is advised to take on empty stomach?",
+		"opt_1": "Naproxen",
+		"opt_2": "Levothyroxine",
+		"opt_3": "Prednisone",
+		"opt_4": "Nitrofurantoin",
+		"correct_answer": "2",
+		"reason": "It is administered on empty stomach to avoid interference by food. Sucralfate iron and Calcium also reduce absorption of Levothyroxine"
+	},
+	{
+		"gpat_q": "Which one of the following drug causes agranulocytosis ?",
+		"opt_1": "Pimozide",
+		"opt_2": "Clozapine",
+		"opt_3": "Risperidone",
+		"opt_4": "Olanzapine",
+		"correct_answer": "2",
+		"reason": "Clozapine, tricyclic antidepressant, carbamazepine, chlorpromazine, valproic acid proven to cause granulocytosis."
+	},
+	{
+		"gpat_q": "Prolonged use of which of the following anticonvulsants can produce weight loss?",
+		"opt_1": "Gabapentin",
+		"opt_2": "Oxcarbazepine",
+		"opt_3": "Topiramate",
+		"opt_4": "Valproic acid",
+		"correct_answer": "3",
+		"reason": "Adverse effect of topiramate includes cognitive dysfunction, weight loss, kidney stone, dizziness, ataxia, Stevenson Johnson Syndrome"
+	}
+]

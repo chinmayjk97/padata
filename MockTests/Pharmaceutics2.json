@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Turrets connect _____",
+		"opt_1": "Connect upper & lower punches",
+		"opt_2": "Hopper and die cavity",
+		"opt_3": "Clam track and punch",
+		"opt_4": "None",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one form of drugs has more solubility?",
+		"opt_1": "Crystalline",
+		"opt_2": "Amorphous",
+		"opt_3": "Both",
+		"opt_4": "None of above",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Bloom strength test is carried out ",
+		"opt_1": "6.66% solution",
+		"opt_2": "10 degrees Celsius",
+		"opt_3": "8 % solution",
+		"opt_4": "Both A & B",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Phlebitis is problems with _____ injection",
+		"opt_1": "Intramuscular",
+		"opt_2": "Subcutaneous",
+		"opt_3": "Intravenous",
+		"opt_4": "Intrathecal",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Crushing strength is also called ",
+		"opt_1": "Friability",
+		"opt_2": "Hardness",
+		"opt_3": "Brittle index",
+		"opt_4": "None of the above",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "If the tablet weight is 80 mg or then ______ % deviation allowed is USP",
+		"opt_1": "3%",
+		"opt_2": "5%",
+		"opt_3": "10%",
+		"opt_4": "15%",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following in not added to chewing tablet ?",
+		"opt_1": "Glidant",
+		"opt_2": "Disintegrant",
+		"opt_3": "Lubricant",
+		"opt_4": "Antiadhesive",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Diazepam suppository is used in  ",
+		"opt_1": "In case of status epilepticus in children",
+		"opt_2": "To treat epileptic condition in adults",
+		"opt_3": "In case of insomnia",
+		"opt_4": "As an antipsychotic",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Lactulose is",
+		"opt_1": "Stimulant laxative",
+		"opt_2": "Emollient laxative",
+		"opt_3": "Bulk laxative",
+		"opt_4": "Osmotic laxative",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Suspension of kaolin is dried using which dryer  ",
+		"opt_1": "Freeze dryer",
+		"opt_2": "Drum dryer",
+		"opt_3": "Spray dryer",
+		"opt_4": "Both A and B",
+		"correct_answer": "2",
+		"reason": "Drum dryer is suitable for drying of suspension solution of various material like starch suspension ferrous products and kaolin suspension"
+	},
+	{
+		"gpat_q": "As per official books which test is applicable for soda lime glass  ",
+		"opt_1": "Powdered test",
+		"opt_2": "Water attack test",
+		"opt_3": "Acid test",
+		"opt_4": "Alkalinity test",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "On the basis of duration of action the eye preparations of a particular drug may be arranged as ",
+		"opt_1": "Occusert > Suspension > Saturated solution > Ointment",
+		"opt_2": "Occusert > Ointment > Suspension> Saturated solution",
+		"opt_3": "Saturated solution > Suspension > Ointment > Occusert",
+		"opt_4": "Suspension > Occusert > Ointment > Saturated solution",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which type of diameter is important in formulation of emulsion and suspensions  ",
+		"opt_1": "Length number",
+		"opt_2": "Projected",
+		"opt_3": "Sieve",
+		"opt_4": "Stokes",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "If the cohesive forces in between similar molecules are less than the adhesive forces between dissimilar molecules, what type of deviation in Raoult’s law will observe? ",
+		"opt_1": "Positive",
+		"opt_2": "Negative",
+		"opt_3": "Absent",
+		"opt_4": "Either positive or negative",
+		"correct_answer": "1",
+		"reason": "Cohesive attraction forces of unlike compounds weaker or less then dose of pure liquid it is positive deviation"
+	},
+	{
+		"gpat_q": "Structured vehicle is included in the formulation of a suspension , in order to ",
+		"opt_1": "Reduce the size by chemical means",
+		"opt_2": "Decrease the interfacial tension",
+		"opt_3": "Promote the sedimentation of particle",
+		"opt_4": "Prevent the sedimentation of particle",
+		"correct_answer": "4",
+		"reason": "Structured vehicle is nothing but the suspending agent these prevent sedimentation of particle used in case of deflocculated suspension, cellulose and its derivative different gums gelatin etc."
+	},
+	{
+		"gpat_q": "Mixing, thymol and menthol is an example of",
+		"opt_1": "Physical incompatibility",
+		"opt_2": "Chemical incompatibility",
+		"opt_3": "Biological incompatibility",
+		"opt_4": "Pharmaceutical incompatibility",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following flavor is not responsible for sour taste",
+		"opt_1": "Citrus flavors",
+		"opt_2": "Liquorice",
+		"opt_3": "Raspberry",
+		"opt_4": "Mint spice",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Clark’s formula for the child dose calculation is based on",
+		"opt_1": "Month",
+		"opt_2": "Kg",
+		"opt_3": "Lb.",
+		"opt_4": "Pound",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Diclofenac tablet coated with cellulose acetate phthalate has been administered to a patient. Where the diclofenac will release?  ",
+		"opt_1": "Stomach",
+		"opt_2": "Oral cavity",
+		"opt_3": "Small intestine",
+		"opt_4": "Liver",
+		"correct_answer": "3",
+		"reason": "Diclofenac is irritant to the stomach so that's why is it is coated with cellulose acetate phthalate that is enteric coating to release in intestine"
+	},
+	{
+		"gpat_q": "Zero order kinetics are seen all except ",
+		"opt_1": "Salicylic acid",
+		"opt_2": "Phenytoin",
+		"opt_3": "Ethanol",
+		"opt_4": "Barbiturates",
+		"correct_answer": "2",
+		"reason": "Phenytoin does not shows nonlinear kinetics given by Michaelis-Menten equation"
+	}
+]

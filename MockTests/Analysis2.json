@@ -1,0 +1,182 @@
+[
+	{
+		"gpat_q": "Bending vibrations include all following except",
+		"opt_1": "Rocking",
+		"opt_2": "Stretching",
+		"opt_3": "Twisting",
+		"opt_4": "Wagging",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "For calibration of wave number scale in IR _______ is used.",
+		"opt_1": "Holmium filter",
+		"opt_2": "Polystyrene film",
+		"opt_3": "Polyvinyl film",
+		"opt_4": "None",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Hexachlorobutadiene is preferred over Nujol as a mulling agent because",
+		"opt_1": "It is non toxic",
+		"opt_2": "It does not give C–H vibration bands",
+		"opt_3": "It is transparent over IR range",
+		"opt_4": "It has very high boiling point.",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "SiC rod heated to a high temperature is used as",
+		"opt_1": "Source of light in IR",
+		"opt_2": "Detector in IR",
+		"opt_3": "Source of light in UV",
+		"opt_4": "Source of light in fluorimetry",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following transitions will require more wavelengths?",
+		"opt_1": "Vibrational",
+		"opt_2": "Rotational",
+		"opt_3": "Electronic",
+		"opt_4": "Vibrational – Rotational",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In Raman spectroscopy optical system is made up of",
+		"opt_1": "Glass or quartz",
+		"opt_2": "NaBr or CaF2",
+		"opt_3": "KBr or NaBr",
+		"opt_4": "All of the above",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Conjugation of C=C with C=O causes what effect on frequency of C=O bond in IR spectrum?",
+		"opt_1": "Lower the frequency",
+		"opt_2": "Increase the frequency",
+		"opt_3": "No change in frequency",
+		"opt_4": "None of the above",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which material is used in pressed pellet technique?",
+		"opt_1": "Cholorofluoro carbon oil",
+		"opt_2": "NaCl",
+		"opt_3": "Hexacholoro butadiene",
+		"opt_4": "KBr",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What is multiplex advantage?",
+		"opt_1": "Decreased energy throughput",
+		"opt_2": "Increased energy throughput",
+		"opt_3": "Increased N/S ratio",
+		"opt_4": "Increased S/N ratio",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which compound is used as an internal reference standard for aqueous solution in NMR?",
+		"opt_1": "DMSO-d6",
+		"opt_2": "CDCl3",
+		"opt_3": "2,2-dimethy-l,2-silapentane-5-sulphonate",
+		"opt_4": "Hexachloro acetone",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Intensities in NMR spectrum indicate",
+		"opt_1": "Number of different kinds of the protons present in different environment",
+		"opt_2": "Electronic environment of each kind of protons",
+		"opt_3": "Relative number of protons of each kind",
+		"opt_4": "Number of neighboring proton present",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Conductivity cells are made up of",
+		"opt_1": "Copper rods",
+		"opt_2": "Two parallel sheets of platinum",
+		"opt_3": "Glass membranes with Ag/AgCl",
+		"opt_4": "Sb-SbP3",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Dropping mercury electrode is an important component of",
+		"opt_1": "HPLC",
+		"opt_2": "Spectrophotometer",
+		"opt_3": "Polarograph",
+		"opt_4": "Potentiometer",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Glass transition temperature is detected through",
+		"opt_1": "X-Ray diffractometry",
+		"opt_2": "Solution calonmetery",
+		"opt_3": "Differential scanning calorimeter",
+		"opt_4": "Thermogravimetric analysis",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of following is protogenic solvent?",
+		"opt_1": "Sulphuric acid",
+		"opt_2": "Formic acid",
+		"opt_3": "Both",
+		"opt_4": "None",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Assay of furosemide is carried out by",
+		"opt_1": "Back titration with NaOH",
+		"opt_2": "Direct titration with NaOH",
+		"opt_3": "Back titration with HCI",
+		"opt_4": "Direct titration with HCl",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "What is included in the Karl Fischer reagent?",
+		"opt_1": "Iodine, Pyrimidine, SO2",
+		"opt_2": "Iodine, Pyridine, SO2",
+		"opt_3": "Iodine, Pyridine, SO2, Methanol",
+		"opt_4": "Iodine, Pyridine, SO2, Ethanol",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Compared to the rate of inorganic reactions, the rate of organic reactions generally is?",
+		"opt_1": "Slower because organic particles are ions",
+		"opt_2": "Slower because organic particles contains covalent bonds",
+		"opt_3": "Faster because organic particles are ions",
+		"opt_4": "Faster because organic particles contains covalent bonds",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Gay-Lussac method is also called",
+		"opt_1": "Clear point method",
+		"opt_2": "Argentometric method",
+		"opt_3": "Adsorption indicator method",
+		"opt_4": "Volhard’s method",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Tailing occurs due to",
+		"opt_1": "Sample overloading",
+		"opt_2": "Impurity",
+		"opt_3": "More than one ionic species of compound",
+		"opt_4": "All of the above",
+		"correct_answer": "4",
+		"reason": ""
+	}
+]
