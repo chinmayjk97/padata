@@ -1,0 +1,452 @@
+[
+	{
+		"gpat_q": "Two capillaries having radii of 0.01 and 0.02 were used to calculate the surface tension of the same liquid. What will be the Rise exhibited by the first capillary in comparison to the second capillary?",
+		"opt_1": "Four Times",
+		"opt_2": "Equal",
+		"opt_3": "Half",
+		"opt_4": "Twice",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The surface tension of water is 72.8 dy/cm, while that of benzene is 28.9 dy/cm. This means that :",
+		"opt_1": "Adhesive forces between benzene and a stronger than that of water and air",
+		"opt_2": "Cohesive forces in water are stronger than that of in Benzene",
+		"opt_3": "Cohesive forces in water are weaker than that of in Benzene",
+		"opt_4": "Wetting of benzene to the glass capillary is more",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In the formulation development of emulsion and suspension, what type of diameter is important ?",
+		"opt_1": "Length number",
+		"opt_2": "Projected",
+		"opt_3": "Sieve",
+		"opt_4": "Stokes",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The type of viscosity specified in IP is",
+		"opt_1": "Absolute viscosity",
+		"opt_2": "Dynamic viscosity",
+		"opt_3": "Kinematics viscosity",
+		"opt_4": "Viscosity coefficient",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Protective colloids do not",
+		"opt_1": "Aid in dispersion",
+		"opt_2": "Decrease Zeta potential",
+		"opt_3": "Lower the interfacial tension",
+		"opt_4": "Offer a mechanical barrier",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The protamine zinc insulin suspension is prepared by a method",
+		"opt_1": "Altered pH precipitation",
+		"opt_2": "Dispersion method",
+		"opt_3": "Double decomposition",
+		"opt_4": "Organic solvent precipitation",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Emulsions are defined as thermodynamically unstable system. The event that follows sequentially towards instability are",
+		"opt_1": "Coalescence, breaking, creaming and flocculation",
+		"opt_2": "Coalescence, flocculation, creaming and breaking",
+		"opt_3": "Flocculation, creaming , breaking and coalescence",
+		"opt_4": "Flocculation, creaming, coalescence and breaking",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "You are on your way to take an examination and you suddenly get an attack of diarrhea. If you stop at a nearby drug store for an OTC opioid with antidiarrheal action, you will be asking for",
+		"opt_1": "Codeine",
+		"opt_2": "Dextromethorphan",
+		"opt_3": "Loperamide",
+		"opt_4": "Diphenoxylate",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "29 year old woman who was in her 41st week of gestation had been in labor for 12 hours. All the uterine contraction had been strong and regular initially, they had diminished in force during the past hour. Which of the following drugs would be administered to facilitate this woman's labor and delivery ?",
+		"opt_1": "Dopamine",
+		"opt_2": "Oxytocin",
+		"opt_3": "Prolactin",
+		"opt_4": "Vasopressin",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one of the following tags do not promote the release of endogenous insulin ?",
+		"opt_1": "Pioglitazone",
+		"opt_2": "Glipizide",
+		"opt_3": "Repaglinide",
+		"opt_4": "Tolazamide",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The mechanism of antibacterial action of tetracycline involves",
+		"opt_1": "Binding to a component of 50s ribosomal subunit",
+		"opt_2": "inhibition of translocase activity",
+		"opt_3": "Inhibition of DNA dependent RNA polymerase",
+		"opt_4": "Blockage of binding of aminoacyl t-RNA to bacterial ribosomes",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one of the following statement about 'one daily' dosing with aminoglycosides is false",
+		"opt_1": "It is convenient for outpatient therapy",
+		"opt_2": "Adjustment of dose is less important in Renal insufficiency",
+		"opt_3": "Less nursing time is required",
+		"opt_4": "Under-dosing is less of a problem",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The mechanism by which sulfasalazine exerts its primary action in ulcerative colitis is inhibition of",
+		"opt_1": "Folic acid synthesis",
+		"opt_2": "The formation of leukotrienes and prostaglandin",
+		"opt_3": "Proton pump activity",
+		"opt_4": "Phospholipase C",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Over 90% of this drug is excreted in urine in intact form. Because its urinary solubility is low, patient should be well hydrated to prevent nephrotoxicity",
+		"opt_1": "Acyclovir",
+		"opt_2": "Amantadine",
+		"opt_3": "Indinavir",
+		"opt_4": "Zidovudine",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Young women employed as a dental laboratory technician complains of conjunctivitis, skin irritation and hair loss. On examination, she has perforations of the nasal septum and a 'milk and Roses' complexation. The signs and symptoms is most likely to be due to",
+		"opt_1": "Acute Mercury poisoning",
+		"opt_2": "Chroning inorganic Arsenic poisoning",
+		"opt_3": "Chronic Mercury poisoning",
+		"opt_4": "Excessive use of supplementary iron tablets",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A person who must take verapamil for Hypertension and angina has become a severely constipated. Which of the following drug would be the most suitable as a cathartic ?",
+		"opt_1": "Aluminum hydroxide",
+		"opt_2": "Magnesium hydroxide",
+		"opt_3": "Mineral oil",
+		"opt_4": "Metoclopramide",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Patient presents with zollinger-ellison syndrome due to gastrinoma. He has two bleeding ulcer and diarrhea. A drug that irreversibly enables the H=/K= ATPase pump in gastric parietal cells is",
+		"opt_1": "Cimetidine",
+		"opt_2": "Cisapride",
+		"opt_3": "Ondansetron",
+		"opt_4": "Omeprazole",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The relationship between concentration, temperature and potential of a solution is given by",
+		"opt_1": "Ilkovic equation",
+		"opt_2": "Henderson equation",
+		"opt_3": "Nernst equation",
+		"opt_4": "Hassalbach equation",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "If a flexible molecule is converted to a rigid molecule, the fluorescence intensity ",
+		"opt_1": "Increases",
+		"opt_2": "Decreases",
+		"opt_3": "No change",
+		"opt_4": "Cannot be predicted",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Concentrated suspensions cannot be analyzed by Nephlometry because",
+		"opt_1": "It is difficult to measure scattered light",
+		"opt_2": "Scattering does not takes place correctly",
+		"opt_3": "Transmitted light is measured using turbidimetry",
+		"opt_4": "Light is scattered in all direction",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Titration of water with Karl Fischer reagent can be carried out by",
+		"opt_1": "Conductometry",
+		"opt_2": "Biamperometry",
+		"opt_3": "Dead stop end point method",
+		"opt_4": "Both B and C",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Sodium and Potassium in biological fluids are estimated using by",
+		"opt_1": "Turbidimetry",
+		"opt_2": "Fluorimetry",
+		"opt_3": "Colorimetry",
+		"opt_4": "Flame photometry",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following is not used as detector in GC",
+		"opt_1": "Katharometer",
+		"opt_2": "Flame thermo couple detector",
+		"opt_3": "Bolometer",
+		"opt_4": "Electron capture detector",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The following is a source of microwave radiation",
+		"opt_1": "Magic-T",
+		"opt_2": "Klystron",
+		"opt_3": "Globar source",
+		"opt_4": "Rf coil",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The pressure inside the mass spectrometer is",
+		"opt_1": "Lower than atmospheric pressure",
+		"opt_2": "Higher than atmospheric pressure",
+		"opt_3": "Almost Nil",
+		"opt_4": "Equal to atmospheric pressure",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The highest iodine value is found in the fatty acid known as ",
+		"opt_1": "Myristc acid",
+		"opt_2": "Oleic acid",
+		"opt_3": "Eruric acid",
+		"opt_4": "Lineoleic acid",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Solanaceous alkaloids are present in",
+		"opt_1": "Ephedra",
+		"opt_2": "Belladonna",
+		"opt_3": "Cinchona",
+		"opt_4": "Kurchi",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Shark liver oil contains",
+		"opt_1": "Vitamin D",
+		"opt_2": "Vitamin A",
+		"opt_3": "Vitamin B12",
+		"opt_4": "Vitamin C",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Indian Saffron is",
+		"opt_1": "Ginger",
+		"opt_2": "Ipecae",
+		"opt_3": "Tumeric",
+		"opt_4": "Rhubarb",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Coriander oil contains  ________ of linalool ",
+		"opt_1": "4%",
+		"opt_2": "8%",
+		"opt_3": "20%",
+		"opt_4": "80%",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which salt of ergot is used in geriatric patients? ",
+		"opt_1": "Mesylate",
+		"opt_2": "Ethylate",
+		"opt_3": "Tartrate",
+		"opt_4": "Maleate",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Diosgenin is ______",
+		"opt_1": "An alkaloid obtained from dioscorea",
+		"opt_2": "A Carbohydrate obtained from dioscorea",
+		"opt_3": "A glycoside obtained from dioscorea",
+		"opt_4": "None of the above",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In humans, a dietary essential fatty acid is",
+		"opt_1": "Palmitic acid",
+		"opt_2": "Stearic acid",
+		"opt_3": "Linoleic acid",
+		"opt_4": "Oleic acid",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Salkowski test is performed to detect ",
+		"opt_1": "Glycerol",
+		"opt_2": "Cholesterol",
+		"opt_3": "Fatty acid",
+		"opt_4": "Vitamin D",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "An aromatic amino acid is",
+		"opt_1": "Lysine",
+		"opt_2": "Tyrosine",
+		"opt_3": "Taurine",
+		"opt_4": "Arginine",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The chairman of DTAB is",
+		"opt_1": "President, PCI",
+		"opt_2": "Drug Controller of India",
+		"opt_3": "Union Health Minister",
+		"opt_4": "Director, General Health Services",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Medical Termination of pregnancy act was passed in the year",
+		"opt_1": "1971",
+		"opt_2": "1980",
+		"opt_3": "1871",
+		"opt_4": "1949",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The first edition of Indian Phamacopoeia was published in the year",
+		"opt_1": "1940",
+		"opt_2": "1948",
+		"opt_3": "1955",
+		"opt_4": "1950",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A population of cells derived from a single cell are called",
+		"opt_1": "Monoclonal cells",
+		"opt_2": "Clones",
+		"opt_3": "Protoplasts",
+		"opt_4": "Sub culture",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Temperature required for pasteurization is",
+		"opt_1": "above 150 degrees celsius",
+		"opt_2": "below 100 degrees celsius",
+		"opt_3": "110 degrees celsius",
+		"opt_4": "None of the above",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Plasmids are ideal vectors for gene cloning as",
+		"opt_1": "They can be multiplied by culturing",
+		"opt_2": "They can be multiplied in the laboratory using enzymes",
+		"opt_3": "They can replicate freely outside the bacterial cells",
+		"opt_4": "They can self replicate within bacterial cell",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In the industrial production of streptomycin, the secondary metabolite or by product is",
+		"opt_1": "Vitamin B12",
+		"opt_2": "Vitamin B6",
+		"opt_3": "Vitamin C",
+		"opt_4": "None of these",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The antibody that is formed first after infection is",
+		"opt_1": "IgG",
+		"opt_2": "IgA",
+		"opt_3": "IgE",
+		"opt_4": "IgM",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Erythrocytes will get its ATP energy only by",
+		"opt_1": "Glycolysis",
+		"opt_2": "Kreb's cycle",
+		"opt_3": "Electron Transport",
+		"opt_4": "HMP shunt",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "DNA-replication is by the mechanism of",
+		"opt_1": "Conservative",
+		"opt_2": "semi-conservative",
+		"opt_3": "Dispersive",
+		"opt_4": "None of these",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "If the pka of phenobarbitone is 7.4, what fraction of the drug would be ionized at pH 8.4 ?",
+		"opt_1": "0.01",
+		"opt_2": "0.50",
+		"opt_3": "0.90",
+		"opt_4": "1.00",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Surface Tension is defines as the change in surface free energy per unit change in",
+		"opt_1": "Area",
+		"opt_2": "Density",
+		"opt_3": "Volume",
+		"opt_4": "Length",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Andreasen apparatus consists of :",
+		"opt_1": "Balance",
+		"opt_2": "Electrodes",
+		"opt_3": "Hydrometer",
+		"opt_4": "Pipette",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "High repose angle indicates",
+		"opt_1": "Bulk density of the granules",
+		"opt_2": "Porosity of granules",
+		"opt_3": "Roughness of granule surface",
+		"opt_4": "Smoothness of granule surface",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Pick the electron acceptor, which is capable of forming organic molecular complexes:",
+		"opt_1": "Carbon tetrachloride",
+		"opt_2": "Hexane",
+		"opt_3": "Picric acid",
+		"opt_4": "Toluene",
+		"correct_answer": "3",
+		"reason": ""
+	}
+]

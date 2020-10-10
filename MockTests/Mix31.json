@@ -1,0 +1,452 @@
+[
+	{
+		"gpat_q": "Lyophilization is the other name for",
+		"opt_1": "Freeze drying",
+		"opt_2": "Thermal drying",
+		"opt_3": "Vacuum drying",
+		"opt_4": "All of the above",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Dissolution test for tablets are done to measure indirectly",
+		"opt_1": "Bioavailability",
+		"opt_2": "Solubility",
+		"opt_3": "Friability",
+		"opt_4": "Hardness",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Auxiliary emulsifying agents are used to stabilize the emulsion. They act on principle",
+		"opt_1": "Adjusting the HLB value",
+		"opt_2": "Strengthening the nonpolar tails of emulsifier",
+		"opt_3": "Strengthening the polar heads of emulsifier",
+		"opt_4": "Thickening the continuous phase",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A double cone mixer is used for mixing",
+		"opt_1": "Liquids",
+		"opt_2": "Solids",
+		"opt_3": "Semi Solids",
+		"opt_4": "Suspensions",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The velocity of air in a laminar air flow unit is generally",
+		"opt_1": "45 ± 10 fpm",
+		"opt_2": "90 ± 20 fpm",
+		"opt_3": "160  ± 20 fpm",
+		"opt_4": "300 ± 40 fpm",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The renal clearance of inulin is used as measurement of",
+		"opt_1": "Effective renal blood flow",
+		"opt_2": "Intrinsic enzymatic activity",
+		"opt_3": "Rate of renal drug excretion",
+		"opt_4": "Glomerular filtrate rate",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The adult dose of a drug is 60 mg, then 200 for 6 year old child will be",
+		"opt_1": "30 mg",
+		"opt_2": "20 mg",
+		"opt_3": "10 mg",
+		"opt_4": "15 mg",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which one of the following antibiotics is a potent inducer of hepatic drug metabolizing enzymes?",
+		"opt_1": "Ciprofloxacin",
+		"opt_2": "Erythromycin",
+		"opt_3": "Rifampin",
+		"opt_4": "Cyclosporine",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Passive immunization involves",
+		"opt_1": "Live immunogens",
+		"opt_2": "Stimulation of antibody formation",
+		"opt_3": "Use of antigens",
+		"opt_4": "Use of preformed antibodies",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Which of the following is used in active immunization of children and combines bacterial toxins with bacterial antigen?",
+		"opt_1": "BCG",
+		"opt_2": "BSA",
+		"opt_3": "DTP",
+		"opt_4": "ISG",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A patient in the coronary Care Unit has been receiving warfarin for 2 weeks. As a result of this therapy, the patient will probably have",
+		"opt_1": "Reduce plasma factor II activity",
+		"opt_2": "Reduce plasma plasminogen activity",
+		"opt_3": "Increase tissue plasminogen Activator",
+		"opt_4": "Increase platelet adenosine stores",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The primary cause of digitalis toxicity is",
+		"opt_1": "Intracellular calcium overload",
+		"opt_2": "Intracellular potassium overload",
+		"opt_3": "Increase parasympathetic activity",
+		"opt_4": "All of these",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A psychiatric patient taking medications develops at tremors, thyroid enlargement, Leukocytosis. The drug he is taking is most likely to be",
+		"opt_1": "Clomipramine",
+		"opt_2": "Haloperidol",
+		"opt_3": "Imipramine",
+		"opt_4": "Lithium",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In treatment of hypothyroidism, thyroxine is preferred over thyronin because thyroxine",
+		"opt_1": "Can be made more easily by Recombinant DNA technology",
+		"opt_2": "Has a longer Half Life",
+		"opt_3": "Has higher affinity for thyroid hormone receptors",
+		"opt_4": "Is faster acting",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Acridine indicator gives the colour following colour change at pH 5.2-6.6",
+		"opt_1": "Green to violet blue",
+		"opt_2": "Blue to colourless",
+		"opt_3": "Colourless to green",
+		"opt_4": "Blue to violet",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "In UV spectrophotometry, the intensity of transmitted light is measured at",
+		"opt_1": "90 degrees",
+		"opt_2": "180 degrees",
+		"opt_3": "240 degrees",
+		"opt_4": "360 degrees",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Salinity of sea water can be determined by",
+		"opt_1": "Polarimetry",
+		"opt_2": "Refractometry",
+		"opt_3": "Karl Fischer reagent",
+		"opt_4": "Conductivity measurement",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The indicator used in standardization of 5-FU is",
+		"opt_1": "Azo violet",
+		"opt_2": "Thymol blue",
+		"opt_3": "Quinaldine red",
+		"opt_4": "Nitroaniline",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Whatman No. 54 is used for separation of ",
+		"opt_1": "Sugar and amino acids",
+		"opt_2": "Inorganic compounds",
+		"opt_3": "Lipids and Steroids",
+		"opt_4": "Electrophoresis",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The drug estimated by Bratton Marshall reagent is ",
+		"opt_1": "Methyl dopa",
+		"opt_2": "Ferrous Sulphate",
+		"opt_3": "Vitamin A",
+		"opt_4": "Sulphadiazine",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Powdered digitalis is dried at temperature",
+		"opt_1": "Not exceeding 60 degrees Celsius",
+		"opt_2": "65 degrees Celsius",
+		"opt_3": "75 degrees Celsius",
+		"opt_4": "100 degrees Celsius",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Reserpine is derived from",
+		"opt_1": "Squalene",
+		"opt_2": "Homoseriene",
+		"opt_3": "Tryptophan and Tryptamine",
+		"opt_4": "Asparagine",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Atropine on hydrolysis with Barium hydroxide gives",
+		"opt_1": "Tropanol and Tropic acid",
+		"opt_2": "Scopine and Tropic acid",
+		"opt_3": "Ecognine and Benzoic acid",
+		"opt_4": "Benzyl ecognine and Methanol",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Citrus flavanoids are rich in :",
+		"opt_1": "Assculien",
+		"opt_2": "Fraxin",
+		"opt_3": "Hesperidin",
+		"opt_4": "Scopoletin",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Cocaine, the alkaloid obtained from coca leaves acts by :",
+		"opt_1": "Increasing noradrenaline synthesis",
+		"opt_2": "Inhibiting monoamine oxidase",
+		"opt_3": "Inhibiting catechol-o-methyl transferase",
+		"opt_4": "Inhibiting noradrenaline re-uptake",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A ketogenic amino acid is",
+		"opt_1": "Valine",
+		"opt_2": "Cysteine",
+		"opt_3": "Leucine",
+		"opt_4": "Threonine",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Histones are ",
+		"opt_1": "Identical to protamine",
+		"opt_2": "Proteins rich in lysine and arginine",
+		"opt_3": "Proteins with high molecular weight",
+		"opt_4": "Insoluble in water and very dilute acids",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Distance travelled per turn of alpha-helix in nm is",
+		"opt_1": "0.53",
+		"opt_2": "0.54",
+		"opt_3": "0.12",
+		"opt_4": "0.20",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A nucleoside consists of",
+		"opt_1": "Nitrogenous base",
+		"opt_2": "Purine or pyrimidine base + sugar",
+		"opt_3": "Purine or Pyrimidine base + Phosphorous",
+		"opt_4": "Purine + Pyrimidine base + Phosphorous + Sugar",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The structure of tRNA appears like a ",
+		"opt_1": "Helix",
+		"opt_2": "Hair pin",
+		"opt_3": "Clover leaf",
+		"opt_4": "Coil",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The poisons act was passed in the year",
+		"opt_1": "1857",
+		"opt_2": "1919",
+		"opt_3": "1940",
+		"opt_4": "1971",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Drugs that are required to be used only under the supervision of a registered medical practitioner are dealt in the schedule",
+		"opt_1": "G",
+		"opt_2": "H & L",
+		"opt_3": "I",
+		"opt_4": "D and J",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Education Institution imparting Pharmacy education are approved by",
+		"opt_1": "Drug Controller of India",
+		"opt_2": "PCI",
+		"opt_3": "Drug Inspector",
+		"opt_4": "State Pharmacy Council",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "A list of allopathic poisons are given in the schedule",
+		"opt_1": "F",
+		"opt_2": "H",
+		"opt_3": "E",
+		"opt_4": "G",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The tablet or capsule drugs specified in the schedule X can be marketed in packages not exceeding ",
+		"opt_1": "200 unit doses",
+		"opt_2": "100 unit doses",
+		"opt_3": "150 unit doses",
+		"opt_4": "None of these",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "How much of Globulin is present in human serum :",
+		"opt_1": "8 %",
+		"opt_2": "12 %",
+		"opt_3": "16 %",
+		"opt_4": "4 %",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The protein moiety of an enzyme is known as",
+		"opt_1": "Holo enzyme",
+		"opt_2": "Apo Enzyme",
+		"opt_3": "Co enzyme",
+		"opt_4": "Enzyme",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "By-product of acetone-butanol fermentation include",
+		"opt_1": "Riboflavin",
+		"opt_2": "Penicillin",
+		"opt_3": "Isopropranol",
+		"opt_4": "All of the above",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Analysis of protein antigen by",
+		"opt_1": "Southern blot",
+		"opt_2": "Western blot",
+		"opt_3": "Northern blot",
+		"opt_4": "Eastern blot",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Temperature in pasteurization is",
+		"opt_1": "62.8 degrees Celsius",
+		"opt_2": "68.2 degrees Celsius",
+		"opt_3": "35.7 degrees Celsius",
+		"opt_4": "60.8 degrees Celsius",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Micelles are observed in water, when the added surfactant is within a particular concentration range. This concentration range should be :",
+		"opt_1": "Equal to and less than CMC",
+		"opt_2": "Equal to and more than CMC",
+		"opt_3": "Equal to CMC",
+		"opt_4": "More than CMC",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Sulphur sol is an example of colloidal type :",
+		"opt_1": "Association",
+		"opt_2": "Hydrophilic",
+		"opt_3": "Lyophilic",
+		"opt_4": "Lyophobic",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "When charcoal powder is dusted on the surface of water, the contact angle that the charcoal exhibits is ",
+		"opt_1": "Zero",
+		"opt_2": "One",
+		"opt_3": "90",
+		"opt_4": "180",
+		"correct_answer": "4",
+		"reason": ""
+	},
+	{
+		"gpat_q": "The percentage of sucrose in simple syrup USP is",
+		"opt_1": "56% w/w",
+		"opt_2": "66.7 % w/w",
+		"opt_3": "85 % w/w",
+		"opt_4": "66.7 % w/v",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Powdered glass test is not performed on",
+		"opt_1": "Type I",
+		"opt_2": "Type II",
+		"opt_3": "Type III",
+		"opt_4": "Type IV",
+		"correct_answer": "2",
+		"reason": "Powdered glass test is not performed on Treated Soda lime test. Instead Water attack test is performed."
+	},
+	{
+		"gpat_q": "_______ is used as an antiseptic",
+		"opt_1": "Crystal Violet",
+		"opt_2": "Evans Blue",
+		"opt_3": "Amaranth",
+		"opt_4": "Fluorescein",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Qualitative and quantitative estimation of N-methyl group is done using",
+		"opt_1": "Hoffmann's exhaustive methylation",
+		"opt_2": "Herzig Meyer method",
+		"opt_3": "Zeisel's method",
+		"opt_4": "Clarke's method",
+		"correct_answer": "2",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Presence of -COOH group is detected by the effervescence produced when heated with",
+		"opt_1": "NaOH",
+		"opt_2": "KOH",
+		"opt_3": "NaHCO3",
+		"opt_4": "K2CO3",
+		"correct_answer": "3",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Hyoscyamine is the _____ of atropine",
+		"opt_1": "Laevo Isomer",
+		"opt_2": "Dextro Isomer",
+		"opt_3": "Racemic mixture",
+		"opt_4": "Epimer",
+		"correct_answer": "1",
+		"reason": ""
+	},
+	{
+		"gpat_q": "Nicotine contains",
+		"opt_1": "Pyridine ring fused to a pyrrolidine ring",
+		"opt_2": "Pyridine ring linked to pyrrolidine ring",
+		"opt_3": "Pyridine ring and Pyrimidine ring",
+		"opt_4": "Indole ring fused to an Isoquinoline ring",
+		"correct_answer": "2",
+		"reason": ""
+	}
+]
